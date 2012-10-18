@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D77CEDE12845B4F004B9D5A /* pourtester */;
+		activeTarget = 8DD76F620486A84900D96B5E /* pourtester */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* pourtester */,
+		);
+		codeSenseManager = 6D77CEE312845B6D004B9D5A /* Code sense */;
+		executables = (
+			6D77CEDE12845B4F004B9D5A /* pourtester */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357524379;
+			PBXWorkspaceStateSaveDate = 357524379;
+		};
+		perUserProjectItems = {
+			6DE93DC4154F63D3003FC9A2 /* PBXTextBookmark */ = 6DE93DC4154F63D3003FC9A2 /* PBXTextBookmark */;
+			6DE93DC5154F63D3003FC9A2 /* PBXTextBookmark */ = 6DE93DC5154F63D3003FC9A2 /* PBXTextBookmark */;
+			6DE93DC8154F63D5003FC9A2 /* PBXTextBookmark */ = 6DE93DC8154F63D5003FC9A2 /* PBXTextBookmark */;
+			6DE93DDB154F63F9003FC9A2 /* PBXTextBookmark */ = 6DE93DDB154F63F9003FC9A2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D77CEE212845B6D004B9D5A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 195}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{20, 168}";
+			sepNavWindowFrame = "{{-1905, -253}, {1696, 1048}}";
+		};
+	};
+	6D77CEDE12845B4F004B9D5A /* pourtester */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = pourtester;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6D77CEE212845B6D004B9D5A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D77CEE312845B6D004B9D5A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D77CF3D128463B1004B9D5A /* untitled.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 169}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 136}";
+		};
+	};
+	6DE93DC4154F63D3003FC9A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 20;
+	};
+	6DE93DC5154F63D3003FC9A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* pourtester.1 */;
+		name = "pourtester.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	6DE93DC8154F63D5003FC9A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D77CF3D128463B1004B9D5A /* untitled.h */;
+		name = "untitled.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	6DE93DDB154F63F9003FC9A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D77CF3D128463B1004B9D5A /* untitled.h */;
+		name = "untitled.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* pourtester */ = {
+		activeExec = 0;
+		executables = (
+			6D77CEDE12845B4F004B9D5A /* pourtester */,
+		);
+	};
+	C6859E8B029090EE04C91782 /* pourtester.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 639}";
+		};
+	};
+}

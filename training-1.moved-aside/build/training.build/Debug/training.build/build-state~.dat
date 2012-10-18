@@ -1,0 +1,59 @@
+Ttraining
+v7
+r0
+t312473290.716794
+cCheck dependencies
+cCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/training/build/Debug/training normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/training/build/Debug/training
+t1290780490
+s39376
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+t1290780489
+s123572
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/training.LinkFileList
+c000000004CEFBF470000000000000066
+t1290780487
+s102
+
+N/Users/molz/Documents/training/main.cpp
+c000000004CEFBF4600000000000001BF
+t1290780486
+s447
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312473287#312473287#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312473287.448782
+e312473289.384587
+r1
+xCompileC
+xbuild/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/training/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/training/main.cpp312473287#312473289#0(0"0(0#0#39"/Users/molz/Documents/training/main.cpp7886488416478786560#1268"    cd /Users/molz/Documents/training    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-generated-files.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-own-target-headers.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-all-target-headers.hmap -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-project-headers.hmap -F/Users/molz/Documents/training/build/Debug -I/Users/molz/Documents/training/build/Debug/include -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources/x86_64 -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources -c /Users/molz/Documents/training/main.cpp -o /Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/training/build/Debug/training normal x86_64
+s312473289.385028
+e312473290.716728
+r1
+xLd
+x/Users/molz/Documents/training/build/Debug/training
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/training/build/Debug/training312473289#312473290#0(0"0(0#0#0"4300882208#462"    cd /Users/molz/Documents/training    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/training/build/Debug -F/Users/molz/Documents/training/build/Debug -filelist /Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/training.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/training/build/Debug/training0#
+

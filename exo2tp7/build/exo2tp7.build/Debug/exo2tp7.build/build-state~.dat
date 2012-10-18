@@ -1,0 +1,54 @@
+Texo2tp7
+v7
+r0
+t316431975.734927
+cCheck dependencies
+cCompileC build/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2tp7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo2tp7/build/Debug/exo2tp7
+t2
+s0
+
+N/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/exo2tp7.LinkFileList
+c000000004D2C26E70000000000000063
+t1294739175
+s99
+
+N/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo2tp7/main.cpp
+c000000004D2C26E700000000000000C0
+t1294739175
+s192
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316431975#316431975#0(0"0(0#1#0"8613599072#0"0#
+
+CCompileC build/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2tp7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316431975.417563
+e316431975.734849
+r0
+xCompileC
+xbuild/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo2tp7/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo2tp7/main.cpp:4: error: 'p' has not been declared
+o/Users/molz/Documents/exo2tp7/main.cpp: In function 'int puissance(int, int)':
+o/Users/molz/Documents/exo2tp7/main.cpp:7: error: 'p' was not declared in this scope
+lSLF07#2@46"Compile /Users/molz/Documents/exo2tp7/main.cpp316431975#316431975#0(238"/Users/molz/Documents/exo2tp7/main.cpp:4: error: 'p' has not been declared/Users/molz/Documents/exo2tp7/main.cpp: In function 'int puissance(int, int)':/Users/molz/Documents/exo2tp7/main.cpp:7: error: 'p' was not declared in this scope2(4@25"'p' has not been declared316431975#0#75#0(6@38"/Users/molz/Documents/exo2tp7/main.cpp316431975#4#0#4#0#25"'*' has not been declared0(4@34"'p' was not declared in this scope316431975#154#84#0(6@38"/Users/molz/Documents/exo2tp7/main.cpp316431975#7#0#7#0#34"'*' was not declared in this scope0(0#0#38"/Users/molz/Documents/exo2tp7/main.cpp8611704736#1192"    cd /Users/molz/Documents/exo2tp7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/exo2tp7-generated-files.hmap -I/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/exo2tp7-own-target-headers.hmap -I/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/exo2tp7-all-target-headers.hmap -iquote /Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/exo2tp7-project-headers.hmap -F/Users/molz/Documents/exo2tp7/build/Debug -I/Users/molz/Documents/exo2tp7/build/Debug/include -I/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/DerivedSources -c /Users/molz/Documents/exo2tp7/main.cpp -o /Users/molz/Documents/exo2tp7/build/exo2tp7.build/Debug/exo2tp7.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo2tp7/build/Debug/exo2tp7 normal x86_64
+r0
+

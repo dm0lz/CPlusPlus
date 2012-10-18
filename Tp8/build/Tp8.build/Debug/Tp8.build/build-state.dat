@@ -1,0 +1,63 @@
+TTp8
+v7
+r0
+t317042834.343814
+cCheck dependencies
+cCompileC build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/Tp8/build/Debug/Tp8
+t1295349227
+s11528
+
+N/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/Tp8.LinkFileList
+c000000004D3562D40000000000000057
+t1295344340
+s87
+
+N/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/Tp8/main.cpp
+c000000004D3579C00000000000000435
+t1295350208
+s1077
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317042834#317042834#0(0"0(0#1#0"8613045408#0"0#
+
+CCompileC build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317042834.021167
+e317042834.343743
+r0
+xCompileC
+xbuild/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/Tp8/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/Tp8/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/Tp8/main.cpp:63: error: invalid conversion from 'int*' to 'int'
+o/Users/molz/Documents/Tp8/main.cpp:63: error:   initializing argument 1 of 'void afficheTab(int, int*)'
+o/Users/molz/Documents/Tp8/main.cpp:63: error: invalid conversion from 'int' to 'int*'
+o/Users/molz/Documents/Tp8/main.cpp:63: error:   initializing argument 2 of 'void afficheTab(int, int*)'
+lSLF07#2@42"Compile /Users/molz/Documents/Tp8/main.cpp317042834#317042834#0(459"/Users/molz/Documents/Tp8/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/Tp8/main.cpp:63: error: invalid conversion from 'int*' to 'int'/Users/molz/Documents/Tp8/main.cpp:63: error:   initializing argument 1 of 'void afficheTab(int, int*)'/Users/molz/Documents/Tp8/main.cpp:63: error: invalid conversion from 'int' to 'int*'/Users/molz/Documents/Tp8/main.cpp:63: error:   initializing argument 2 of 'void afficheTab(int, int*)'4(4@39"Invalid conversion from 'int*' to 'int'317042834#79#86#0(6@34"/Users/molz/Documents/Tp8/main.cpp317042833#63#0#63#0#34"invalid conversion from '*' to '*'0(4@55"Initializing argument 1 of 'void afficheTab(int, int*)'317042834#165#104#0(6@34"/Users/molz/Documents/Tp8/main.cpp317042833#63#0#63#0#0"0(4@39"Invalid conversion from 'int' to 'int*'317042834#269#86#0(6@34"/Users/molz/Documents/Tp8/main.cpp317042833#63#0#63#0#34"invalid conversion from '*' to '*'0(4@55"Initializing argument 2 of 'void afficheTab(int, int*)'317042834#355#104#0(6@34"/Users/molz/Documents/Tp8/main.cpp317042833#63#0#63#0#0"0(0#0#34"/Users/molz/Documents/Tp8/main.cpp8611731136#1076"    cd /Users/molz/Documents/Tp8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Tp8-generated-files.hmap -I/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Tp8-own-target-headers.hmap -I/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Tp8-all-target-headers.hmap -iquote /Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Tp8-project-headers.hmap -F/Users/molz/Documents/Tp8/build/Debug -I/Users/molz/Documents/Tp8/build/Debug/include -I/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/DerivedSources/x86_64 -I/Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/DerivedSources -c /Users/molz/Documents/Tp8/main.cpp -o /Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/Tp8/build/Debug/Tp8 normal x86_64
+s317042027.878020
+e317042027.896988
+r1
+xLd
+x/Users/molz/Documents/Tp8/build/Debug/Tp8
+xnormal
+xx86_64
+lSLF07#2@46"Link /Users/molz/Documents/Tp8/build/Debug/Tp8317042027#317042027#0(0"0(0#0#0"8613383552#417"    cd /Users/molz/Documents/Tp8    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/Tp8/build/Debug -F/Users/molz/Documents/Tp8/build/Debug -filelist /Users/molz/Documents/Tp8/build/Tp8.build/Debug/Tp8.build/Objects-normal/x86_64/Tp8.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/Tp8/build/Debug/Tp80#
+

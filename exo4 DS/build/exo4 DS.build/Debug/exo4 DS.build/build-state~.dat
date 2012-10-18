@@ -1,0 +1,53 @@
+Texo4 DS
+v7
+r0
+t311597807.219620
+cCheck dependencies
+cCompileC "build/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo4 DS/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo4 DS/build/Debug/exo4 DS
+t2
+s0
+
+N/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/exo4 DS.LinkFileList
+c000000004CE2636E0000000000000063
+t1289905006
+s99
+
+N/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo4 DS/main.cpp
+c000000004CE2636E00000000000002AC
+t1289905006
+s684
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311597806#311597806#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo4 DS/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311597806.838283
+e311597807.219542
+r0
+xCompileC
+xbuild/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo4 DS/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo4 DS/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/exo4 DS/main.cpp:35: error: 'somme' was not declared in this scope
+lSLF07#2@46"Compile /Users/molz/Documents/exo4 DS/main.cpp311597806#311597807#0(172"/Users/molz/Documents/exo4 DS/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exo4 DS/main.cpp:35: error: 'somme' was not declared in this scope1(4@38"'somme' was not declared in this scope311597807#83#89#0(6@38"/Users/molz/Documents/exo4 DS/main.cpp311597806#35#0#35#0#34"'*' was not declared in this scope0(0#0#38"/Users/molz/Documents/exo4 DS/main.cpp4300882208#1261"    cd "/Users/molz/Documents/exo4 DS"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/exo4 DS-generated-files.hmap" "-I/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/exo4 DS-own-target-headers.hmap" "-I/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/exo4 DS-all-target-headers.hmap" -iquote "/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/exo4 DS-project-headers.hmap" "-F/Users/molz/Documents/exo4 DS/build/Debug" "-I/Users/molz/Documents/exo4 DS/build/Debug/include" "-I/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/DerivedSources/x86_64" "-I/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/DerivedSources" -c "/Users/molz/Documents/exo4 DS/main.cpp" -o "/Users/molz/Documents/exo4 DS/build/exo4 DS.build/Debug/exo4 DS.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/molz/Documents/exo4 DS/build/Debug/exo4 DS" normal x86_64
+r0
+

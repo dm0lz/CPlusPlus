@@ -1,0 +1,56 @@
+Ttraining
+v7
+r0
+t320247702.591456
+cCheck dependencies
+cCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/training/build/Debug/training
+t2
+s0
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/training.LinkFileList
+c000000004D6660160000000000000066
+t1298554902
+s102
+
+N/Users/molz/Documents/training/main.cpp
+c000000004D66601500000000000002AC
+t1298554901
+s684
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320247702#320247702#0(0"0(0#1#0"8613989344#0"0#
+
+CCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320247702.262115
+e320247702.591383
+r0
+xCompileC
+xbuild/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/training/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/training/main.cpp: In function 'void affichePersonne(Personne)':
+o/Users/molz/Documents/training/main.cpp:26: error: invalid operands of types 'const char [29]' and 'const char [29]' to binary 'operator/'
+o/Users/molz/Documents/training/main.cpp:27: error: invalid operands of types 'const char [26]' and 'const char [26]' to binary 'operator/'
+o/Users/molz/Documents/training/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/training/main.cpp:39: error: conversion from 'Date' to non-scalar type 'Personne' requested
+lSLF07#2@47"Compile /Users/molz/Documents/training/main.cpp320247702#320247702#0(563"/Users/molz/Documents/training/main.cpp: In function 'void affichePersonne(Personne)':/Users/molz/Documents/training/main.cpp:26: error: invalid operands of types 'const char [29]' and 'const char [29]' to binary 'operator/'/Users/molz/Documents/training/main.cpp:27: error: invalid operands of types 'const char [26]' and 'const char [26]' to binary 'operator/'/Users/molz/Documents/training/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/training/main.cpp:39: error: conversion from 'Date' to non-scalar type 'Personne' requested3(4@87"Invalid operands of types 'const char [29]' and 'const char [29]' to binary 'operator/'320247702#87#139#0(6@39"/Users/molz/Documents/training/main.cpp320247701#26#0#26#0#0"0(4@87"Invalid operands of types 'const char [26]' and 'const char [26]' to binary 'operator/'320247702#226#139#0(6@39"/Users/molz/Documents/training/main.cpp320247701#27#0#27#0#0"0(4@62"Conversion from 'Date' to non-scalar type 'Personne' requested320247702#449#114#0(6@39"/Users/molz/Documents/training/main.cpp320247701#39#0#39#0#0"0(0#0#39"/Users/molz/Documents/training/main.cpp8614133984#1221"    cd /Users/molz/Documents/training    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-generated-files.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-own-target-headers.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-all-target-headers.hmap -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-project-headers.hmap -F/Users/molz/Documents/training/build/Debug -I/Users/molz/Documents/training/build/Debug/include -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources/x86_64 -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources -c /Users/molz/Documents/training/main.cpp -o /Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/training/build/Debug/training normal x86_64
+r0
+

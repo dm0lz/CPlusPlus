@@ -1,0 +1,84 @@
+Ttableau
+v7
+r0
+t329960074.605123
+cCheck dependencies
+cCompileC build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tableau/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/tableau/build/Debug/tableau normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004FAE7C5700000000000000EE
+t1336835159
+s238
+
+N/Users/molz/Documents/C++/tableau/build/Debug/tableau
+t1308267274
+s11272
+
+N/Users/molz/Documents/C++/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o
+t1308267273
+s71308
+
+N/Users/molz/Documents/C++/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/tableau.LinkFileList
+c000000004DFA89300000000000000063
+t1308264752
+s99
+
+N/Users/molz/Documents/C++/tableau/main.cpp
+c000000004DFA930900000000000001DF
+t1308267273
+s479
+i<iostream>
+
+N/Users/molz/Documents/tableau/build/Debug/tableau
+t1308267274
+s11272
+
+N/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o
+t1308267273
+s71308
+
+N/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/tableau.LinkFileList
+c000000004DFA89300000000000000063
+t1308264752
+s99
+
+N/Users/molz/Documents/tableau/main.cpp
+c000000004DFA930900000000000001DF
+t1308267273
+s479
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329960074#329960074#0(0"0(0#1#0"8614743808#0"0#
+
+CCompileC build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o /Users/molz/Documents/C++/tableau/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tableau/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s329960074.525282
+e329960074.526281
+r1
+xCompileC
+xbuild/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/tableau/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/tableau/main.cpp329960074#329960074#0(0"0(0#0#38"/Users/molz/Documents/tableau/main.cpp8614353376#1192"    cd /Users/molz/Documents/tableau    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-generated-files.hmap -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-own-target-headers.hmap -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-all-target-headers.hmap -iquote /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-project-headers.hmap -F/Users/molz/Documents/tableau/build/Debug -I/Users/molz/Documents/tableau/build/Debug/include -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/DerivedSources/x86_64 -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/DerivedSources -c /Users/molz/Documents/tableau/main.cpp -o /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/C++/tableau/build/Debug/tableau normal x86_64
+r0
+
+CLd /Users/molz/Documents/tableau/build/Debug/tableau normal x86_64
+s329960074.526340
+e329960074.605060
+r1
+xLd
+x/Users/molz/Documents/tableau/build/Debug/tableau
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/tableau/build/Debug/tableau329960074#329960074#0(0"0(0#0#0"8614211680#453"    cd /Users/molz/Documents/tableau    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/tableau/build/Debug -F/Users/molz/Documents/tableau/build/Debug -filelist /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/tableau.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/tableau/build/Debug/tableau0#
+

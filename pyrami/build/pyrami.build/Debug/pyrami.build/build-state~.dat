@@ -1,0 +1,51 @@
+Tpyrami
+v7
+r0
+t313354587.428319
+cCheck dependencies
+cCompileC build/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyrami/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/pyrami/build/Debug/pyrami
+t2
+s0
+
+N/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/pyrami.LinkFileList
+c000000004CFD31DB0000000000000060
+t1291661787
+s96
+
+N/Users/molz/Documents/pyrami/main.cpp
+c000000004CFD31DB0000000000000377
+t1291661787
+s887
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313354587#313354587#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyrami/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313354587.427259
+e313354587.428269
+r0
+xCompileC
+xbuild/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pyrami/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/molz/Documents/pyrami/main.cpp313354587#313354587#0(265"/Users/molz/Documents/pyrami/main.cpp: In function 'void afficheEspaces(int)':/Users/molz/Documents/pyrami/main.cpp:12: error: a function-definition is not allowed here before '{' token/Users/molz/Documents/pyrami/main.cpp:58: error: expected `}' at end of input2(4@58"A function-definition is not allowed here before '{' token313354587#79#108#0(6@37"/Users/molz/Documents/pyrami/main.cpp313354587#12#0#12#0#0"0(4@28"Expected `}' at end of input313354587#187#78#0(6@37"/Users/molz/Documents/pyrami/main.cpp313354587#58#0#58#0#0"0(0#0#37"/Users/molz/Documents/pyrami/main.cpp4300882208#1210"    cd /Users/molz/Documents/pyrami    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/pyrami-generated-files.hmap -I/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/pyrami-own-target-headers.hmap -I/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/pyrami-all-target-headers.hmap -iquote /Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/pyrami-project-headers.hmap -F/Users/molz/Documents/pyrami/build/Debug -I/Users/molz/Documents/pyrami/build/Debug/include -I/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/DerivedSources/x86_64 -I/Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/DerivedSources -c /Users/molz/Documents/pyrami/main.cpp -o /Users/molz/Documents/pyrami/build/pyrami.build/Debug/pyrami.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/pyrami/build/Debug/pyrami normal x86_64
+r0
+

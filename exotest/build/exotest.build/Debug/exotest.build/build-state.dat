@@ -1,0 +1,59 @@
+Texotest
+v7
+r0
+t311785711.303866
+cCheck dependencies
+cCompileC build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exotest/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exotest/build/Debug/exotest normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exotest/build/Debug/exotest
+t1290092911
+s45432
+
+N/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/exotest.LinkFileList
+c000000004CE5399A0000000000000063
+t1290090906
+s99
+
+N/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o
+t1290092911
+s136016
+
+N/Users/molz/Documents/exotest/main.cpp
+c000000004CE5416E0000000000000331
+t1290092910
+s817
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311785710#311785710#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exotest/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311785710.896233
+e311785711.282375
+r1
+xCompileC
+xbuild/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exotest/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exotest/main.cpp311785710#311785711#0(0"0(0#0#38"/Users/molz/Documents/exotest/main.cpp4300882208#1239"    cd /Users/molz/Documents/exotest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-generated-files.hmap -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-own-target-headers.hmap -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-all-target-headers.hmap -iquote /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-project-headers.hmap -F/Users/molz/Documents/exotest/build/Debug -I/Users/molz/Documents/exotest/build/Debug/include -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/DerivedSources/x86_64 -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/DerivedSources -c /Users/molz/Documents/exotest/main.cpp -o /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/exotest/build/Debug/exotest normal x86_64
+s311785711.282447
+e311785711.303818
+r1
+xLd
+x/Users/molz/Documents/exotest/build/Debug/exotest
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/exotest/build/Debug/exotest311785711#311785711#0(0"0(0#0#0"4300882208#453"    cd /Users/molz/Documents/exotest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exotest/build/Debug -F/Users/molz/Documents/exotest/build/Debug -filelist /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/exotest.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exotest/build/Debug/exotest0#
+

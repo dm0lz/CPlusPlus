@@ -1,0 +1,51 @@
+Ttableau
+v7
+r0
+t329957552.048775
+cCheck dependencies
+cCompileC build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tableau/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/tableau/build/Debug/tableau
+t2
+s0
+
+N/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/tableau.LinkFileList
+c000000004DFA89300000000000000063
+t1308264752
+s99
+
+N/Users/molz/Documents/tableau/main.cpp
+c000000004DFA892E00000000000000A5
+t1308264750
+s165
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329957551#329957552#0(0"0(0#1#0"8610700064#0"0#
+
+CCompileC build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tableau/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s329957552.047682
+e329957552.048730
+r0
+xCompileC
+xbuild/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/tableau/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/tableau/main.cpp329957552#329957552#0(344"/Users/molz/Documents/tableau/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/tableau/main.cpp:5: error: storage size of 'tableau' isn't known/Users/molz/Documents/tableau/main.cpp:9: error: 'cout' was not declared in this scope/Users/molz/Documents/tableau/main.cpp:9: error: 'endl' was not declared in this scope3(4@37"Storage size of 'tableau' isn't known329957552#83#87#0(6@38"/Users/molz/Documents/tableau/main.cpp329957550#5#0#5#0#0"0(4@37"'cout' was not declared in this scope329957552#170#87#0(6@38"/Users/molz/Documents/tableau/main.cpp329957550#9#0#9#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope329957552#257#87#0(6@38"/Users/molz/Documents/tableau/main.cpp329957550#9#0#9#0#34"'*' was not declared in this scope0(0#0#38"/Users/molz/Documents/tableau/main.cpp8609644832#1192"    cd /Users/molz/Documents/tableau    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-generated-files.hmap -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-own-target-headers.hmap -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-all-target-headers.hmap -iquote /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/tableau-project-headers.hmap -F/Users/molz/Documents/tableau/build/Debug -I/Users/molz/Documents/tableau/build/Debug/include -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/DerivedSources/x86_64 -I/Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/DerivedSources -c /Users/molz/Documents/tableau/main.cpp -o /Users/molz/Documents/tableau/build/tableau.build/Debug/tableau.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/tableau/build/Debug/tableau normal x86_64
+r0
+

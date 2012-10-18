@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D1E4F4612DD27160024C5B4 /* Untitled */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Untitled */;
+		codeSenseManager = 6D1E4F5412DD271C0024C5B4 /* Code sense */;
+		executables = (
+			6D1E4F4612DD27160024C5B4 /* Untitled */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					616,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316484091;
+			PBXWorkspaceStateSaveDate = 316484091;
+		};
+		perUserProjectItems = {
+			6D1E4FB412DD2E440024C5B4 /* PBXTextBookmark */ = 6D1E4FB412DD2E440024C5B4 /* PBXTextBookmark */;
+			6D1E4FCF12DD31660024C5B4 /* PBXTextBookmark */ = 6D1E4FCF12DD31660024C5B4 /* PBXTextBookmark */;
+			6D1E4FD012DD31720024C5B4 /* PBXTextBookmark */ = 6D1E4FD012DD31720024C5B4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D1E4F5312DD271C0024C5B4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1001, 1053}}";
+			sepNavSelRange = "{1996, 0}";
+			sepNavVisRange = "{1665, 375}";
+		};
+	};
+	6D1E4F4612DD27160024C5B4 /* Untitled */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Untitled;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6D1E4F5312DD271C0024C5B4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D1E4F5412DD271C0024C5B4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D1E4F8112DD29F60024C5B4 /* 1x03_Corr_Controle.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 1x03_Corr_Controle.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x03_Corr_Controle.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 2756}}";
+			sepNavSelRange = "{4338, 28}";
+			sepNavVisRange = "{3217, 1483}";
+		};
+	};
+	6D1E4FB412DD2E440024C5B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1E4F8112DD29F60024C5B4 /* 1x03_Corr_Controle.cpp */;
+		name = "1x03_Corr_Controle.cpp: 167";
+		rLen = 28;
+		rLoc = 4338;
+		rType = 0;
+		vrLen = 1483;
+		vrLoc = 3217;
+	};
+	6D1E4FCF12DD31660024C5B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 76";
+		rLen = 0;
+		rLoc = 1996;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 1665;
+	};
+	6D1E4FD012DD31720024C5B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 2039;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* Untitled */ = {
+		activeExec = 0;
+		executables = (
+			6D1E4F4612DD27160024C5B4 /* Untitled */,
+		);
+	};
+}

@@ -1,0 +1,61 @@
+Tnim2joueurs
+v7
+r0
+t311599745.063351
+cCheck dependencies
+cCompileC build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/nim2joueurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs
+t1289906333
+s48840
+
+N/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/main.o
+t1289906333
+s147472
+
+N/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/nim2joueurs.LinkFileList
+c000000004CE2689C000000000000006F
+t1289906332
+s111
+
+N/Users/molz/Documents/nim2joueurs/main.cpp
+c000000004CE2689C0000000000000461
+t1289906332
+s1121
+i<cstdlib>
+i<iostream>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311599745#311599745#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/nim2joueurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311599132.872571
+e311599133.364461
+r1
+xCompileC
+xbuild/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/nim2joueurs/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/molz/Documents/nim2joueurs/main.cpp311599132#311599133#0(0"0(0#0#42"/Users/molz/Documents/nim2joueurs/main.cpp8386658438684291072#1355"    cd /Users/molz/Documents/nim2joueurs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/nim2joueurs-generated-files.hmap -I/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/nim2joueurs-own-target-headers.hmap -I/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/nim2joueurs-all-target-headers.hmap -iquote /Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/nim2joueurs-project-headers.hmap -F/Users/molz/Documents/nim2joueurs/build/Debug -I/Users/molz/Documents/nim2joueurs/build/Debug/include -I/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/DerivedSources/x86_64 -I/Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/DerivedSources -c /Users/molz/Documents/nim2joueurs/main.cpp -o /Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs normal x86_64
+s311599133.364557
+e311599133.385956
+r1
+xLd
+x/Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs311599133#311599133#0(0"0(0#0#0"4300882208#489"    cd /Users/molz/Documents/nim2joueurs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/nim2joueurs/build/Debug -F/Users/molz/Documents/nim2joueurs/build/Debug -filelist /Users/molz/Documents/nim2joueurs/build/nim2joueurs.build/Debug/nim2joueurs.build/Objects-normal/x86_64/nim2joueurs.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/nim2joueurs/build/Debug/nim2joueurs0#
+

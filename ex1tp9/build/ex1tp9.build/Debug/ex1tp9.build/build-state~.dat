@@ -1,0 +1,56 @@
+Tex1tp9
+v7
+r0
+t319453210.039278
+cCheck dependencies
+cCompileC build/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/ex1tp9/build/Debug/ex1tp9
+t2
+s0
+
+N/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/ex1tp9.LinkFileList
+c000000004D5A40990000000000000060
+t1297760409
+s96
+
+N/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/ex1tp9/main.cpp
+c000000004D5A40990000000000000285
+t1297760409
+s645
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319453209#319453209#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319453209.488087
+e319453210.039193
+r0
+xCompileC
+xbuild/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/ex1tp9/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/ex1tp9/main.cpp:16: error: 'tailleTableau' has not been declared
+o/Users/molz/Documents/ex1tp9/main.cpp: In function 'void afficheTableau(int*, int)':
+o/Users/molz/Documents/ex1tp9/main.cpp:18: error: 'tailleTableau' was not declared in this scope
+o/Users/molz/Documents/ex1tp9/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/ex1tp9/main.cpp:37: error: 'tab' was not declared in this scope
+lSLF07#2@45"Compile /Users/molz/Documents/ex1tp9/main.cpp319453209#319453210#0(436"/Users/molz/Documents/ex1tp9/main.cpp:16: error: 'tailleTableau' has not been declared/Users/molz/Documents/ex1tp9/main.cpp: In function 'void afficheTableau(int*, int)':/Users/molz/Documents/ex1tp9/main.cpp:18: error: 'tailleTableau' was not declared in this scope/Users/molz/Documents/ex1tp9/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/ex1tp9/main.cpp:37: error: 'tab' was not declared in this scope3(4@37"'tailleTableau' has not been declared319453210#0#87#0(6@37"/Users/molz/Documents/ex1tp9/main.cpp319453209#16#0#16#0#25"'*' has not been declared0(4@46"'tailleTableau' was not declared in this scope319453210#172#96#0(6@37"/Users/molz/Documents/ex1tp9/main.cpp319453209#18#0#18#0#34"'*' was not declared in this scope0(4@36"'tab' was not declared in this scope319453210#350#86#0(6@37"/Users/molz/Documents/ex1tp9/main.cpp319453209#37#0#37#0#34"'*' was not declared in this scope0(0#0#37"/Users/molz/Documents/ex1tp9/main.cpp7020319295437486080#1163"    cd /Users/molz/Documents/ex1tp9    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/ex1tp9-generated-files.hmap -I/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/ex1tp9-own-target-headers.hmap -I/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/ex1tp9-all-target-headers.hmap -iquote /Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/ex1tp9-project-headers.hmap -F/Users/molz/Documents/ex1tp9/build/Debug -I/Users/molz/Documents/ex1tp9/build/Debug/include -I/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/DerivedSources/x86_64 -I/Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/DerivedSources -c /Users/molz/Documents/ex1tp9/main.cpp -o /Users/molz/Documents/ex1tp9/build/ex1tp9.build/Debug/ex1tp9.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/ex1tp9/build/Debug/ex1tp9 normal x86_64
+r0
+

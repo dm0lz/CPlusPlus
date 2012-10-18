@@ -1,0 +1,54 @@
+Texo2 Tp4
+v7
+r0
+t312476638.471955
+cCheck dependencies
+cCompileC "build/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo2 Tp4/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo2 Tp4/build/Debug/exo2 Tp4
+t2
+s0
+
+N/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/exo2 Tp4.LinkFileList
+c000000004CEFCC5D0000000000000066
+t1290783837
+s102
+
+N/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo2 Tp4/main.cpp
+c000000004CEFCC5D000000000000018F
+t1290783837
+s399
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312476637#312476637#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo2 Tp4/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312476637.549830
+e312476638.471751
+r0
+xCompileC
+xbuild/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo2 Tp4/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo2 Tp4/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/exo2 Tp4/main.cpp:17: error: 'a' was not declared in this scope
+o/Users/molz/Documents/exo2 Tp4/main.cpp:21: error: expected primary-expression before 'int'
+lSLF07#2@47"Compile /Users/molz/Documents/exo2 Tp4/main.cpp312476637#312476638#0(262"/Users/molz/Documents/exo2 Tp4/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exo2 Tp4/main.cpp:17: error: 'a' was not declared in this scope/Users/molz/Documents/exo2 Tp4/main.cpp:21: error: expected primary-expression before 'int'2(4@34"'a' was not declared in this scope312476638#84#86#0(6@39"/Users/molz/Documents/exo2 Tp4/main.cpp312476637#17#0#17#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'312476638#170#92#0(6@39"/Users/molz/Documents/exo2 Tp4/main.cpp312476637#21#0#21#0#19"expected * before *0(0#0#39"/Users/molz/Documents/exo2 Tp4/main.cpp4300882208#1290"    cd "/Users/molz/Documents/exo2 Tp4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/exo2 Tp4-generated-files.hmap" "-I/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/exo2 Tp4-own-target-headers.hmap" "-I/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/exo2 Tp4-all-target-headers.hmap" -iquote "/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/exo2 Tp4-project-headers.hmap" "-F/Users/molz/Documents/exo2 Tp4/build/Debug" "-I/Users/molz/Documents/exo2 Tp4/build/Debug/include" "-I/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/DerivedSources/x86_64" "-I/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/DerivedSources" -c "/Users/molz/Documents/exo2 Tp4/main.cpp" -o "/Users/molz/Documents/exo2 Tp4/build/exo2 Tp4.build/Debug/exo2 Tp4.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/molz/Documents/exo2 Tp4/build/Debug/exo2 Tp4" normal x86_64
+r0
+

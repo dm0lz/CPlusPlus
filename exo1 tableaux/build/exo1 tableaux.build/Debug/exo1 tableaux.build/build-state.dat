@@ -1,0 +1,84 @@
+Texo1 tableaux
+v7
+r0
+t319033833.520872
+cCheck dependencies
+cCompileC "build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo1 tableaux/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004FAE7C5700000000000000EE
+t1336835159
+s238
+
+N/Users/molz/Documents/C++/exo1 tableaux/build/Debug/exo1 tableaux
+t1297341013
+s10936
+
+N/Users/molz/Documents/C++/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/exo1 tableaux.LinkFileList
+c000000004D53D99B0000000000000075
+t1297340827
+s117
+
+N/Users/molz/Documents/C++/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o
+t1297341013
+s70212
+
+N/Users/molz/Documents/C++/exo1 tableaux/main.cpp
+c000000004D53DAA4000000000000015F
+t1297341092
+s351
+i<iostream>
+
+N/Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux
+t1297341013
+s10936
+
+N/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/exo1 tableaux.LinkFileList
+c000000004D53D99B0000000000000075
+t1297340827
+s117
+
+N/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o
+t1297341013
+s70212
+
+N/Users/molz/Documents/exo1 tableaux/main.cpp
+c000000004D53DAA4000000000000015F
+t1297341092
+s351
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319033833#319033833#0(0"0(0#1#0"8602566144#0"0#
+
+CCompileC "build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/C++/exo1 tableaux/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/exo1 tableaux/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319033813.557620
+e319033813.909333
+r1
+xCompileC
+xbuild/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo1 tableaux/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/molz/Documents/exo1 tableaux/main.cpp319033813#319033813#0(0"0(0#0#44"/Users/molz/Documents/exo1 tableaux/main.cpp8611793984#1388"    cd "/Users/molz/Documents/exo1 tableaux"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/exo1 tableaux-generated-files.hmap" "-I/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/exo1 tableaux-own-target-headers.hmap" "-I/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/exo1 tableaux-all-target-headers.hmap" -iquote "/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/exo1 tableaux-project-headers.hmap" "-F/Users/molz/Documents/exo1 tableaux/build/Debug" "-I/Users/molz/Documents/exo1 tableaux/build/Debug/include" "-I/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/DerivedSources/x86_64" "-I/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/DerivedSources" -c "/Users/molz/Documents/exo1 tableaux/main.cpp" -o "/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/molz/Documents/C++/exo1 tableaux/build/Debug/exo1 tableaux" normal x86_64
+r0
+
+CLd "/Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux" normal x86_64
+s319033813.909427
+e319033813.927804
+r1
+xLd
+x/Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux319033813#319033813#0(0"0(0#0#0"8613354688#517"    cd "/Users/molz/Documents/exo1 tableaux"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/molz/Documents/exo1 tableaux/build/Debug" "-F/Users/molz/Documents/exo1 tableaux/build/Debug" -filelist "/Users/molz/Documents/exo1 tableaux/build/exo1 tableaux.build/Debug/exo1 tableaux.build/Objects-normal/x86_64/exo1 tableaux.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/molz/Documents/exo1 tableaux/build/Debug/exo1 tableaux"0#
+

@@ -1,0 +1,88 @@
+Texo1tp7
+v7
+r0
+t316482904.585555
+cCheck dependencies
+cCompileC build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo1tp7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/tp7.o /Users/molz/Documents/exo1tp7/tp7.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exo1tp7/build/Debug/exo1tp7 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo1tp7/build/Debug/exo1tp7
+t1294790104
+s11264
+
+N/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/exo1tp7.LinkFileList
+c000000004D2C4AA000000000000000C5
+t1294748320
+s197
+
+N/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/main.o
+t1294790104
+s71704
+
+N/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/tp7.o
+t1294748320
+s1408
+
+N/Users/molz/Documents/exo1tp7/main.cpp
+c000000004D2CEDD800000000000003FA
+t1294790104
+s1018
+i<iostream>
+
+N/Users/molz/Documents/exo1tp7/tp7.cpp
+c000000004D2C3BCF0000000000000094
+t1294744527
+s148
+i"tp7.h"
+
+N/Users/molz/Documents/exo1tp7/tp7.h
+c000000004D2C3BCF0000000000000080
+t1294744527
+s128
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316482904#316482904#0(0"0(0#1#0"8613545184#0"0#
+
+CCompileC build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo1tp7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316482904.339983
+e316482904.566016
+r1
+xCompileC
+xbuild/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo1tp7/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exo1tp7/main.cpp316482904#316482904#0(161"/Users/molz/Documents/exo1tp7/main.cpp: In function 'int nombreCoupsPourTrouver()':/Users/molz/Documents/exo1tp7/main.cpp:9: warning: unused variable 'reponse'1(22@25"Unused variable 'reponse'316482904#84#77#0(6@38"/Users/molz/Documents/exo1tp7/main.cpp316482904#9#0#9#0#19"unused variable '*'0(0#0#38"/Users/molz/Documents/exo1tp7/main.cpp8613505248#1192"    cd /Users/molz/Documents/exo1tp7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-generated-files.hmap -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-own-target-headers.hmap -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-all-target-headers.hmap -iquote /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-project-headers.hmap -F/Users/molz/Documents/exo1tp7/build/Debug -I/Users/molz/Documents/exo1tp7/build/Debug/include -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/DerivedSources -c /Users/molz/Documents/exo1tp7/main.cpp -o /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/tp7.o /Users/molz/Documents/exo1tp7/tp7.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316441120.549172
+e316441120.573513
+r1
+xCompileC
+xbuild/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/tp7.o
+x/Users/molz/Documents/exo1tp7/tp7.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/molz/Documents/exo1tp7/tp7.cpp316441120#316441120#0(0"0(0#0#37"/Users/molz/Documents/exo1tp7/tp7.cpp8620299552#1190"    cd /Users/molz/Documents/exo1tp7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-generated-files.hmap -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-own-target-headers.hmap -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-all-target-headers.hmap -iquote /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/exo1tp7-project-headers.hmap -F/Users/molz/Documents/exo1tp7/build/Debug -I/Users/molz/Documents/exo1tp7/build/Debug/include -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/DerivedSources -c /Users/molz/Documents/exo1tp7/tp7.cpp -o /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/tp7.o0#
+
+CLd /Users/molz/Documents/exo1tp7/build/Debug/exo1tp7 normal x86_64
+s316482904.566166
+e316482904.585507
+r1
+xLd
+x/Users/molz/Documents/exo1tp7/build/Debug/exo1tp7
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/exo1tp7/build/Debug/exo1tp7316482904#316482904#0(0"0(0#0#0"8613164992#453"    cd /Users/molz/Documents/exo1tp7    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exo1tp7/build/Debug -F/Users/molz/Documents/exo1tp7/build/Debug -filelist /Users/molz/Documents/exo1tp7/build/exo1tp7.build/Debug/exo1tp7.build/Objects-normal/x86_64/exo1tp7.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exo1tp7/build/Debug/exo1tp70#
+

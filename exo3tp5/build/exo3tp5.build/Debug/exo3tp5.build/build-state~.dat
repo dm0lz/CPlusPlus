@@ -1,0 +1,51 @@
+Texo3tp5
+v7
+r0
+t315754212.281270
+cCheck dependencies
+cCompileC build/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo3tp5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo3tp5/build/Debug/exo3tp5
+t2
+s0
+
+N/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/exo3tp5.LinkFileList
+c000000004D21CF640000000000000063
+t1294061412
+s99
+
+N/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo3tp5/main.cpp
+c000000004D21CF63000000000000013D
+t1294061411
+s317
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315754211#315754212#0(0"0(0#1#0"8616649792#0"0#
+
+CCompileC build/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo3tp5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s315754212.073550
+e315754212.281201
+r0
+xCompileC
+xbuild/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo3tp5/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exo3tp5/main.cpp315754212#315754212#0(249"/Users/molz/Documents/exo3tp5/main.cpp: In function 'bool estSyracusien(int)':/Users/molz/Documents/exo3tp5/main.cpp:6: error: declaration of 'int n' shadows a parameter/Users/molz/Documents/exo3tp5/main.cpp:6: warning: unused variable 'resultat'4(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.315754211#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.315754211#18446744073709551615#0#0(1@0"0(4@42"Declaration of 'int n' shadows a parameter315754212#79#92#0(6@38"/Users/molz/Documents/exo3tp5/main.cpp315754211#6#0#6#0#0"0(22@26"Unused variable 'resultat'315754212#171#78#0(6@38"/Users/molz/Documents/exo3tp5/main.cpp315754211#6#0#6#0#19"unused variable '*'0(0#0#38"/Users/molz/Documents/exo3tp5/main.cpp8616543136#1192"    cd /Users/molz/Documents/exo3tp5    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/exo3tp5-generated-files.hmap -I/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/exo3tp5-own-target-headers.hmap -I/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/exo3tp5-all-target-headers.hmap -iquote /Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/exo3tp5-project-headers.hmap -F/Users/molz/Documents/exo3tp5/build/Debug -I/Users/molz/Documents/exo3tp5/build/Debug/include -I/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/DerivedSources -c /Users/molz/Documents/exo3tp5/main.cpp -o /Users/molz/Documents/exo3tp5/build/exo3tp5.build/Debug/exo3tp5.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo3tp5/build/Debug/exo3tp5 normal x86_64
+r0
+

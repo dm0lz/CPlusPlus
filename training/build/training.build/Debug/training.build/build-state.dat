@@ -1,0 +1,61 @@
+Ttraining
+v7
+r0
+t320249097.555904
+cCheck dependencies
+cCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/training/build/Debug/training normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/training/build/Debug/training
+t1298556297
+s16472
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+t1298556297
+s75160
+
+N/Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/training.LinkFileList
+c000000004D6660160000000000000066
+t1298554902
+s102
+
+N/Users/molz/Documents/training/main.cpp
+c000000004D66658900000000000003B6
+t1298556297
+s950
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320249097#320249097#0(0"0(0#1#0"8603965440#0"0#
+
+CCompileC build/training.build/Debug/training.build/Objects-normal/x86_64/main.o /Users/molz/Documents/training/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320249097.178992
+e320249097.537722
+r1
+xCompileC
+xbuild/training.build/Debug/training.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/training/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/training/main.cpp: In function 'Personne creerPersonne()':
+o/Users/molz/Documents/training/main.cpp:46: warning: control reaches end of non-void function
+lSLF07#2@47"Compile /Users/molz/Documents/training/main.cpp320249097#320249097#0(175"/Users/molz/Documents/training/main.cpp: In function 'Personne creerPersonne()':/Users/molz/Documents/training/main.cpp:46: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function320249097#81#94#0(6@39"/Users/molz/Documents/training/main.cpp320249097#46#0#46#0#40"control reaches end of non-void function0(0#0#39"/Users/molz/Documents/training/main.cpp8613983328#1221"    cd /Users/molz/Documents/training    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-generated-files.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-own-target-headers.hmap -I/Users/molz/Documents/training/build/training.build/Debug/training.build/training-all-target-headers.hmap -iquote /Users/molz/Documents/training/build/training.build/Debug/training.build/training-project-headers.hmap -F/Users/molz/Documents/training/build/Debug -I/Users/molz/Documents/training/build/Debug/include -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources/x86_64 -I/Users/molz/Documents/training/build/training.build/Debug/training.build/DerivedSources -c /Users/molz/Documents/training/main.cpp -o /Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/training/build/Debug/training normal x86_64
+s320249097.537812
+e320249097.555859
+r1
+xLd
+x/Users/molz/Documents/training/build/Debug/training
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/training/build/Debug/training320249097#320249097#0(0"0(0#0#0"8614741760#462"    cd /Users/molz/Documents/training    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/training/build/Debug -F/Users/molz/Documents/training/build/Debug -filelist /Users/molz/Documents/training/build/training.build/Debug/training.build/Objects-normal/x86_64/training.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/training/build/Debug/training0#
+

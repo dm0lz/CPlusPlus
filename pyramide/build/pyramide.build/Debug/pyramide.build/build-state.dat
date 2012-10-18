@@ -1,0 +1,58 @@
+Tpyramide
+v7
+r0
+t316198931.749215
+cCheck dependencies
+cCompileC build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyramide/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/pyramide/build/Debug/pyramide
+t1294506060
+s11880
+
+N/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/pyramide.LinkFileList
+c000000004CF9101D0000000000000066
+t1291391005
+s102
+
+N/Users/molz/Documents/pyramide/main.cpp
+c000000004D2898930000000000000447
+t1294506131
+s1095
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316198931#316198931#0(0"0(0#1#0"8605414048#0"0#
+
+CCompileC build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyramide/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316198931.747570
+e316198931.749160
+r0
+xCompileC
+xbuild/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pyramide/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/pyramide/main.cpp316198931#316198931#0(240"/Users/molz/Documents/pyramide/main.cpp: In function 'int main()':/Users/molz/Documents/pyramide/main.cpp:47: error: too many arguments to function 'void pyramide()'/Users/molz/Documents/pyramide/main.cpp:69: error: at this point in file4(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.316198859#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.316198859#18446744073709551615#0#0(1@0"0(4@48"Too many arguments to function 'void pyramide()'316198931#67#100#0(6@39"/Users/molz/Documents/pyramide/main.cpp316198931#47#0#47#0#0"0(4@21"At this point in file316198931#167#73#0(6@39"/Users/molz/Documents/pyramide/main.cpp316198931#69#0#69#0#0"0(0#0#39"/Users/molz/Documents/pyramide/main.cpp8604997056#1221"    cd /Users/molz/Documents/pyramide    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-generated-files.hmap -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-own-target-headers.hmap -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-all-target-headers.hmap -iquote /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-project-headers.hmap -F/Users/molz/Documents/pyramide/build/Debug -I/Users/molz/Documents/pyramide/build/Debug/include -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/DerivedSources/x86_64 -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/DerivedSources -c /Users/molz/Documents/pyramide/main.cpp -o /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/pyramide/build/Debug/pyramide normal x86_64
+s316198860.078680
+e316198860.142177
+r1
+xLd
+x/Users/molz/Documents/pyramide/build/Debug/pyramide
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/pyramide/build/Debug/pyramide316198860#316198860#0(0"0(0#0#0"32088667043397680#462"    cd /Users/molz/Documents/pyramide    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/pyramide/build/Debug -F/Users/molz/Documents/pyramide/build/Debug -filelist /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/pyramide.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/pyramide/build/Debug/pyramide0#
+

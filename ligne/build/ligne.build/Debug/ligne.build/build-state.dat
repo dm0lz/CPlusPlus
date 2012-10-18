@@ -1,0 +1,59 @@
+Tligne
+v7
+r0
+t316187883.490456
+cCheck dependencies
+cCompileC build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ligne/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/ligne/build/Debug/ligne normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/ligne/build/Debug/ligne
+t1294495083
+s11440
+
+N/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/ligne.LinkFileList
+c000000004D21C434000000000000005D
+t1294058548
+s93
+
+N/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/main.o
+t1294495083
+s70020
+
+N/Users/molz/Documents/ligne/main.cpp
+c000000004D286D6B00000000000002DD
+t1294495083
+s733
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316187883#316187883#0(0"0(0#1#0"8610965312#0"0#
+
+CCompileC build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ligne/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316187883.206539
+e316187883.469680
+r1
+xCompileC
+xbuild/ligne.build/Debug/ligne.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/ligne/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/molz/Documents/ligne/main.cpp316187883#316187883#0(0"0(0#0#36"/Users/molz/Documents/ligne/main.cpp8610805088#1134"    cd /Users/molz/Documents/ligne    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/ligne-generated-files.hmap -I/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/ligne-own-target-headers.hmap -I/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/ligne-all-target-headers.hmap -iquote /Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/ligne-project-headers.hmap -F/Users/molz/Documents/ligne/build/Debug -I/Users/molz/Documents/ligne/build/Debug/include -I/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/DerivedSources/x86_64 -I/Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/DerivedSources -c /Users/molz/Documents/ligne/main.cpp -o /Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/ligne/build/Debug/ligne normal x86_64
+s316187883.469756
+e316187883.490405
+r1
+xLd
+x/Users/molz/Documents/ligne/build/Debug/ligne
+xnormal
+xx86_64
+lSLF07#2@50"Link /Users/molz/Documents/ligne/build/Debug/ligne316187883#316187883#0(0"0(0#0#0"8612207488#435"    cd /Users/molz/Documents/ligne    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/ligne/build/Debug -F/Users/molz/Documents/ligne/build/Debug -filelist /Users/molz/Documents/ligne/build/ligne.build/Debug/ligne.build/Objects-normal/x86_64/ligne.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/ligne/build/Debug/ligne0#
+

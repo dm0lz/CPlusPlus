@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6DD17238129BCE10002C7A7A /* Exo1 tp4 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Exo1 tp4 */;
+		codeSenseManager = 6DD1723E129BCE2E002C7A7A /* Code sense */;
+		executables = (
+			6DD17238129BCE10002C7A7A /* Exo1 tp4 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					646,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313081698;
+			PBXWorkspaceStateSaveDate = 313081698;
+		};
+		perUserProjectItems = {
+			6D08B20812A51F2A00F461CF /* PBXTextBookmark */ = 6D08B20812A51F2A00F461CF /* PBXTextBookmark */;
+			6D490F7D12A93F6F00333C2C /* PBXTextBookmark */ = 6D490F7D12A93F6F00333C2C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6DD1723D129BCE2E002C7A7A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 663}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 141}";
+		};
+	};
+	6D08B20812A51F2A00F461CF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 23";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	6D490F7D12A93F6F00333C2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 23";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	6DD17238129BCE10002C7A7A /* Exo1 tp4 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Exo1 tp4";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6DD1723D129BCE2E002C7A7A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6DD1723E129BCE2E002C7A7A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* Exo1 tp4 */ = {
+		activeExec = 0;
+		executables = (
+			6DD17238129BCE10002C7A7A /* Exo1 tp4 */,
+		);
+	};
+}

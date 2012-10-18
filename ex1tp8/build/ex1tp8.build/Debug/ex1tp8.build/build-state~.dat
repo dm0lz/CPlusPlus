@@ -1,0 +1,53 @@
+Tex1tp8
+v7
+r0
+t317035517.148446
+cCheck dependencies
+cCompileC build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/ex1tp8/build/Debug/ex1tp8
+t2
+s0
+
+N/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/ex1tp8.LinkFileList
+c000000004D355C7C0000000000000060
+t1295342716
+s96
+
+N/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/ex1tp8/main.cpp
+c000000004D355C7C0000000000000179
+t1295342716
+s377
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317035516#317035516#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317035516.641553
+e317035517.148345
+r0
+xCompileC
+xbuild/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/ex1tp8/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/ex1tp8/main.cpp:3: error: expected `)' before ';' token
+o/Users/molz/Documents/ex1tp8/main.cpp:3: error: expected initializer before ')' token
+lSLF07#2@45"Compile /Users/molz/Documents/ex1tp8/main.cpp317035516#317035517#0(164"/Users/molz/Documents/ex1tp8/main.cpp:3: error: expected `)' before ';' token/Users/molz/Documents/ex1tp8/main.cpp:3: error: expected initializer before ')' token2(4@29"Expected `)' before ';' token317035517#0#78#0(6@37"/Users/molz/Documents/ex1tp8/main.cpp317035516#3#0#3#0#19"expected * before *0(4@37"Expected initializer before ')' token317035517#78#86#0(6@37"/Users/molz/Documents/ex1tp8/main.cpp317035516#3#0#3#0#19"expected * before *0(0#0#37"/Users/molz/Documents/ex1tp8/main.cpp7020319295437486080#1163"    cd /Users/molz/Documents/ex1tp8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-generated-files.hmap -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-own-target-headers.hmap -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-all-target-headers.hmap -iquote /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-project-headers.hmap -F/Users/molz/Documents/ex1tp8/build/Debug -I/Users/molz/Documents/ex1tp8/build/Debug/include -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/DerivedSources/x86_64 -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/DerivedSources -c /Users/molz/Documents/ex1tp8/main.cpp -o /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/ex1tp8/build/Debug/ex1tp8 normal x86_64
+r0
+

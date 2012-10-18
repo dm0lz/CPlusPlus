@@ -1,0 +1,59 @@
+Tonemore
+v7
+r0
+t310666455.261065
+cCheck dependencies
+cCompileC build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/main.o /Users/molz/Documents/onemore/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/onemore/build/Debug/onemore normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/onemore/build/Debug/onemore
+t1288973655
+s27712
+
+N/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/main.o
+t1288973655
+s93028
+
+N/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/onemore.LinkFileList
+c000000004CD42D560000000000000063
+t1288973654
+s99
+
+N/Users/molz/Documents/onemore/main.cpp
+c000000004CD42D5600000000000000CA
+t1288973654
+s202
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310666454#310666454#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/main.o /Users/molz/Documents/onemore/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310666454.818451
+e310666455.239801
+r1
+xCompileC
+xbuild/onemore.build/Debug/onemore.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/onemore/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/onemore/main.cpp310666454#310666455#0(0"0(0#0#38"/Users/molz/Documents/onemore/main.cpp4300882208#1239"    cd /Users/molz/Documents/onemore    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/onemore-generated-files.hmap -I/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/onemore-own-target-headers.hmap -I/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/onemore-all-target-headers.hmap -iquote /Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/onemore-project-headers.hmap -F/Users/molz/Documents/onemore/build/Debug -I/Users/molz/Documents/onemore/build/Debug/include -I/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/DerivedSources/x86_64 -I/Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/DerivedSources -c /Users/molz/Documents/onemore/main.cpp -o /Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/onemore/build/Debug/onemore normal x86_64
+s310666455.239906
+e310666455.261017
+r1
+xLd
+x/Users/molz/Documents/onemore/build/Debug/onemore
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/onemore/build/Debug/onemore310666455#310666455#0(0"0(0#0#0"4300882208#453"    cd /Users/molz/Documents/onemore    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/onemore/build/Debug -F/Users/molz/Documents/onemore/build/Debug -filelist /Users/molz/Documents/onemore/build/onemore.build/Debug/onemore.build/Objects-normal/x86_64/onemore.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/onemore/build/Debug/onemore0#
+

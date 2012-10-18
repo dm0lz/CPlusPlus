@@ -1,0 +1,54 @@
+Texo11
+v7
+r0
+t319032908.545145
+cCheck dependencies
+cCompileC build/exo11.build/Debug/exo11.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo11/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo11/build/Debug/exo11
+t2
+s0
+
+N/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/Objects-normal/x86_64/exo11.LinkFileList
+c000000004D53D6CC000000000000005D
+t1297340108
+s93
+
+N/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo11/main.cpp
+c000000004D53D6CC0000000000000268
+t1297340108
+s616
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319032908#319032908#0(0"0(0#1#0"8611671104#0"0#
+
+CCompileC build/exo11.build/Debug/exo11.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo11/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319032908.225674
+e319032908.545071
+r0
+xCompileC
+xbuild/exo11.build/Debug/exo11.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo11/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo11/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/exo11/main.cpp:29: error: 'moyenne' was not declared in this scope
+o/Users/molz/Documents/exo11/main.cpp:32: error: 'moyenne' was not declared in this scope
+lSLF07#2@44"Compile /Users/molz/Documents/exo11/main.cpp319032908#319032908#0(259"/Users/molz/Documents/exo11/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exo11/main.cpp:29: error: 'moyenne' was not declared in this scope/Users/molz/Documents/exo11/main.cpp:32: error: 'moyenne' was not declared in this scope2(4@40"'moyenne' was not declared in this scope319032908#81#89#0(6@36"/Users/molz/Documents/exo11/main.cpp319032908#29#0#29#0#34"'*' was not declared in this scope0(4@40"'moyenne' was not declared in this scope319032908#170#89#0(6@36"/Users/molz/Documents/exo11/main.cpp319032908#32#0#32#0#34"'*' was not declared in this scope0(0#0#36"/Users/molz/Documents/exo11/main.cpp8613229728#1134"    cd /Users/molz/Documents/exo11    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/exo11-generated-files.hmap -I/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/exo11-own-target-headers.hmap -I/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/exo11-all-target-headers.hmap -iquote /Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/exo11-project-headers.hmap -F/Users/molz/Documents/exo11/build/Debug -I/Users/molz/Documents/exo11/build/Debug/include -I/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/DerivedSources -c /Users/molz/Documents/exo11/main.cpp -o /Users/molz/Documents/exo11/build/exo11.build/Debug/exo11.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo11/build/Debug/exo11 normal x86_64
+r0
+

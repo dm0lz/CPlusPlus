@@ -1,0 +1,54 @@
+Tpourtester
+v7
+r0
+t310664110.755200
+cCheck dependencies
+cCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pourtester/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/pourtester/build/Debug/pourtester
+t2
+s0
+
+N/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/pourtester.LinkFileList
+c000000004CD4242E000000000000006C
+t1288971310
+s108
+
+N/Users/molz/Documents/pourtester/main.cpp
+c000000004CD4242E00000000000000A2
+t1288971310
+s162
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310664110#310664110#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pourtester/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310664110.432993
+e310664110.755127
+r0
+xCompileC
+xbuild/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pourtester/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/pourtester/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/pourtester/main.cpp:10: error: 'cout' was not declared in this scope
+o/Users/molz/Documents/pourtester/main.cpp:10: error: 'endl' was not declared in this scope
+lSLF07#2@49"Compile /Users/molz/Documents/pourtester/main.cpp310664110#310664110#0(268"/Users/molz/Documents/pourtester/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/pourtester/main.cpp:10: error: 'cout' was not declared in this scope/Users/molz/Documents/pourtester/main.cpp:10: error: 'endl' was not declared in this scope2(4@37"'cout' was not declared in this scope310664110#86#91#0(6@41"/Users/molz/Documents/pourtester/main.cpp310664110#10#0#10#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope310664110#177#91#0(6@41"/Users/molz/Documents/pourtester/main.cpp310664110#10#0#10#0#34"'*' was not declared in this scope0(0#0#41"/Users/molz/Documents/pourtester/main.cpp4300882208#1326"    cd /Users/molz/Documents/pourtester    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-generated-files.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-own-target-headers.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-all-target-headers.hmap -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-project-headers.hmap -F/Users/molz/Documents/pourtester/build/Debug -I/Users/molz/Documents/pourtester/build/Debug/include -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources/x86_64 -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources -c /Users/molz/Documents/pourtester/main.cpp -o /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/pourtester/build/Debug/pourtester normal x86_64
+r0
+

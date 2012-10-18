@@ -1,0 +1,60 @@
+TTP7
+v7
+r0
+t316490019.852111
+cCheck dependencies
+cCompileC build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/TP7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/TP7/build/Debug/TP7 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/TP7/build/Debug/TP7
+t1294797219
+s15992
+
+N/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/TP7.LinkFileList
+c000000004D2C3D8A0000000000000057
+t1294744970
+s87
+
+N/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/main.o
+t1294797219
+s75872
+
+N/Users/molz/Documents/TP7/main.cpp
+c000000004D2D09A30000000000000BE5
+t1294797219
+s3045
+i<iostream>
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316490019#316490019#0(0"0(0#1#0"8614204992#0"0#
+
+CCompileC build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/main.o /Users/molz/Documents/TP7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316490019.583089
+e316490019.832347
+r1
+xCompileC
+xbuild/TP7.build/Debug/TP7.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/TP7/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/molz/Documents/TP7/main.cpp316490019#316490019#0(0"0(0#0#34"/Users/molz/Documents/TP7/main.cpp8614390144#1076"    cd /Users/molz/Documents/TP7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/TP7-generated-files.hmap -I/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/TP7-own-target-headers.hmap -I/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/TP7-all-target-headers.hmap -iquote /Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/TP7-project-headers.hmap -F/Users/molz/Documents/TP7/build/Debug -I/Users/molz/Documents/TP7/build/Debug/include -I/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/DerivedSources/x86_64 -I/Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/DerivedSources -c /Users/molz/Documents/TP7/main.cpp -o /Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/TP7/build/Debug/TP7 normal x86_64
+s316490019.832414
+e316490019.852069
+r1
+xLd
+x/Users/molz/Documents/TP7/build/Debug/TP7
+xnormal
+xx86_64
+lSLF07#2@46"Link /Users/molz/Documents/TP7/build/Debug/TP7316490019#316490019#0(0"0(0#0#0"8613820096#417"    cd /Users/molz/Documents/TP7    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/TP7/build/Debug -F/Users/molz/Documents/TP7/build/Debug -filelist /Users/molz/Documents/TP7/build/TP7.build/Debug/TP7.build/Objects-normal/x86_64/TP7.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/TP7/build/Debug/TP70#
+

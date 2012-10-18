@@ -1,0 +1,65 @@
+Ttp7 cor
+v7
+r0
+t316978023.874980
+cCheck dependencies
+cCompileC "build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/tp7 cor/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/molz/Documents/tp7 cor/build/Debug/tp7 cor" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Users/molz/Documents/tp7 cor/build/Debug/tp7 cor
+t1295285223
+s15416
+
+N/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/main.o
+t1295285223
+s72544
+
+N/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/tp7 cor.LinkFileList
+c000000004D347BE70000000000000063
+t1295285223
+s99
+
+N/Users/molz/Documents/tp7 cor/main.cpp
+c000000004D347BE600000000000007E8
+t1295285222
+s2024
+i<iostream>
+i<time.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316978023#316978023#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/tp7 cor/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316978023.145531
+e316978023.492782
+r1
+xCompileC
+xbuild/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/tp7 cor/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/tp7 cor/main.cpp316978023#316978023#0(138"/Users/molz/Documents/tp7 cor/main.cpp: In function 'int main()':/Users/molz/Documents/tp7 cor/main.cpp:56: warning: unused variable 'i'1(22@19"Unused variable 'i'316978023#66#72#0(6@38"/Users/molz/Documents/tp7 cor/main.cpp316978022#56#0#56#0#19"unused variable '*'0(0#0#38"/Users/molz/Documents/tp7 cor/main.cpp3762299225194901504#1214"    cd "/Users/molz/Documents/tp7 cor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/tp7 cor-generated-files.hmap" "-I/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/tp7 cor-own-target-headers.hmap" "-I/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/tp7 cor-all-target-headers.hmap" -iquote "/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/tp7 cor-project-headers.hmap" "-F/Users/molz/Documents/tp7 cor/build/Debug" "-I/Users/molz/Documents/tp7 cor/build/Debug/include" "-I/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/DerivedSources/x86_64" "-I/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/DerivedSources" -c "/Users/molz/Documents/tp7 cor/main.cpp" -o "/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/molz/Documents/tp7 cor/build/Debug/tp7 cor" normal x86_64
+s316978023.492853
+e316978023.874916
+r1
+xLd
+x/Users/molz/Documents/tp7 cor/build/Debug/tp7 cor
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/tp7 cor/build/Debug/tp7 cor316978023#316978023#0(0"0(0#0#0"8610354080#463"    cd "/Users/molz/Documents/tp7 cor"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/molz/Documents/tp7 cor/build/Debug" "-F/Users/molz/Documents/tp7 cor/build/Debug" -filelist "/Users/molz/Documents/tp7 cor/build/tp7 cor.build/Debug/tp7 cor.build/Objects-normal/x86_64/tp7 cor.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/molz/Documents/tp7 cor/build/Debug/tp7 cor"0#
+

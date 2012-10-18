@@ -1,0 +1,148 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D4D6D8412760B6200E38F20 /* exo2joueurs */;
+		activeTarget = 8DD76F620486A84900D96B5E /* exo2joueurs */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* exo2joueurs */,
+		);
+		codeSenseManager = 6D4D6D8E12760B7600E38F20 /* Code sense */;
+		executables = (
+			6D4D6D8412760B6200E38F20 /* exo2joueurs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					739,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311598986;
+			PBXWorkspaceStateSaveDate = 311598986;
+		};
+		perUserProjectItems = {
+			6D89D01812929F9F00794848 /* PBXTextBookmark */ = 6D89D01812929F9F00794848 /* PBXTextBookmark */;
+			6D89D01912929F9F00794848 /* PBXTextBookmark */ = 6D89D01912929F9F00794848 /* PBXTextBookmark */;
+			6D89D01A12929F9F00794848 /* PBXTextBookmark */ = 6D89D01A12929F9F00794848 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D4D6D8D12760B7600E38F20 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 351}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 202}";
+		};
+	};
+	6D4D6D8412760B6200E38F20 /* exo2joueurs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = exo2joueurs;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6D4D6D8A12760B7600E38F20 /* 2jouerus.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 949}}";
+			sepNavSelRange = "{491, 0}";
+			sepNavVisRange = "{700, 516}";
+		};
+	};
+	6D4D6D8B12760B7600E38F20 /* 2jouerus.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 338}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 201}";
+			sepNavWindowFrame = "{{38, 90}, {1079, 662}}";
+		};
+	};
+	6D4D6D8D12760B7600E38F20 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D4D6D8E12760B7600E38F20 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D89D01812929F9F00794848 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D4D6D8B12760B7600E38F20 /* 2jouerus.cpp */;
+		name = "2jouerus.cpp: 16";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	6D89D01912929F9F00794848 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	6D89D01A12929F9F00794848 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* exo2joueurs */ = {
+		activeExec = 0;
+		executables = (
+			6D4D6D8412760B6200E38F20 /* exo2joueurs */,
+		);
+	};
+}

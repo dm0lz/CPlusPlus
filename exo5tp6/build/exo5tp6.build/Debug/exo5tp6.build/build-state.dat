@@ -1,0 +1,53 @@
+Texo5tp6
+v7
+r0
+t316370243.339609
+cCheck dependencies
+cCompileC build/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo5tp6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo5tp6/build/Debug/exo5tp6
+t2
+s0
+
+N/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/exo5tp6.LinkFileList
+c000000004D2B34730000000000000063
+t1294677107
+s99
+
+N/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo5tp6/main.cpp
+c000000004D2B35BF0000000000000516
+t1294677439
+s1302
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316370242#316370243#0(0"0(0#1#0"8611076768#0"0#
+
+CCompileC build/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo5tp6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316370242.986563
+e316370243.339538
+r0
+xCompileC
+xbuild/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo5tp6/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo5tp6/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/exo5tp6/main.cpp:61: error: conversion from 'Personne ()()' to non-scalar type 'Personne' requested
+lSLF07#2@46"Compile /Users/molz/Documents/exo5tp6/main.cpp316370242#316370243#0(205"/Users/molz/Documents/exo5tp6/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exo5tp6/main.cpp:61: error: conversion from 'Personne ()()' to non-scalar type 'Personne' requested1(4@71"Conversion from 'Personne ()()' to non-scalar type 'Personne' requested316370243#83#122#0(6@38"/Users/molz/Documents/exo5tp6/main.cpp316370239#61#0#61#0#0"0(0#0#38"/Users/molz/Documents/exo5tp6/main.cpp8613043648#1192"    cd /Users/molz/Documents/exo5tp6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/exo5tp6-generated-files.hmap -I/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/exo5tp6-own-target-headers.hmap -I/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/exo5tp6-all-target-headers.hmap -iquote /Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/exo5tp6-project-headers.hmap -F/Users/molz/Documents/exo5tp6/build/Debug -I/Users/molz/Documents/exo5tp6/build/Debug/include -I/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/DerivedSources -c /Users/molz/Documents/exo5tp6/main.cpp -o /Users/molz/Documents/exo5tp6/build/exo5tp6.build/Debug/exo5tp6.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo5tp6/build/Debug/exo5tp6 normal x86_64
+r0
+

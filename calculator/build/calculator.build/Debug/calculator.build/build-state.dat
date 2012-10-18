@@ -1,0 +1,59 @@
+Tcalculator
+v7
+r0
+t329953787.234134
+cCheck dependencies
+cCompileC build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calculator/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/calculator/build/Debug/calculator normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/calculator/build/Debug/calculator
+t1308260962
+s11384
+
+N/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/calculator.LinkFileList
+c000000004D6977AD000000000000006C
+t1298757549
+s108
+
+N/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o
+t1308260961
+s71864
+
+N/Users/molz/Documents/calculator/main.cpp
+c000000004DFA7AD10000000000000382
+t1308261073
+s898
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329953787#329953787#0(0"0(0#1#0"8609392800#0"0#
+
+CCompileC build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calculator/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s329953762.429050
+e329953762.430136
+r1
+xCompileC
+xbuild/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/calculator/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/molz/Documents/calculator/main.cpp329953762#329953762#0(0"0(0#0#41"/Users/molz/Documents/calculator/main.cpp8613562592#1279"    cd /Users/molz/Documents/calculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-generated-files.hmap -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-own-target-headers.hmap -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-all-target-headers.hmap -iquote /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-project-headers.hmap -F/Users/molz/Documents/calculator/build/Debug -I/Users/molz/Documents/calculator/build/Debug/include -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/DerivedSources/x86_64 -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/DerivedSources -c /Users/molz/Documents/calculator/main.cpp -o /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/calculator/build/Debug/calculator normal x86_64
+s329953762.430189
+e329953762.497656
+r1
+xLd
+x/Users/molz/Documents/calculator/build/Debug/calculator
+xnormal
+xx86_64
+lSLF07#2@60"Link /Users/molz/Documents/calculator/build/Debug/calculator329953762#329953762#0(0"0(0#0#0"8611794112#480"    cd /Users/molz/Documents/calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/calculator/build/Debug -F/Users/molz/Documents/calculator/build/Debug -filelist /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/calculator.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/calculator/build/Debug/calculator0#
+

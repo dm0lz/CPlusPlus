@@ -1,0 +1,97 @@
+Tparité
+v7
+r0
+t312650652.536499
+cCheck dependencies
+cCompileC build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/parité/build/Debug/parité normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/parité/build/Debug/parité
+t1290957852
+s39496
+
+N/Users/molz/Documents/parité/build/Debug/parité
+t2
+s0
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+t1290957090
+s123368
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+t1290957852
+s124312
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/parité.LinkFileList
+c000000004CF0FD810000000000000065
+t1290861953
+s101
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/parité.LinkFileList
+c000000004CF0FD810000000000000065
+t1290861953
+s101
+
+N/Users/molz/Documents/parité/main.cpp
+c000000004CF2741B000000000000029B
+t1290957851
+s667
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312650652#312650652#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312650652.024674
+e312650652.515062
+r1
+xCompileC
+xbuild/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/parité/main.cpp312650652#312650652#0(0"0(0#0#39"/Users/molz/Documents/parité/main.cpp4300882208#1268"    cd /Users/molz/Documents/parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-generated-files.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-own-target-headers.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-all-target-headers.hmap -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-project-headers.hmap -F/Users/molz/Documents/parité/build/Debug -I/Users/molz/Documents/parité/build/Debug/include -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources -c /Users/molz/Documents/parité/main.cpp -o /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312555011.579685
+e312555011.958570
+r0
+xCompileC
+xbuild/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/parité/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:54: error: 'parit' was not declared in this scope
+o/Users/molz/Documents/parité/main.cpp:54: error: expected `;' before 'a'
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program
+lSLF07#2@47"Compile /Users/molz/Documents/parité/main.cpp312555011#312555011#0(699"/Users/molz/Documents/parité/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:54: error: 'parit' was not declared in this scope/Users/molz/Documents/parité/main.cpp:54: error: expected `;' before 'a'/Users/molz/Documents/parité/main.cpp:54: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:54: error: stray '\251' in program8(4@23"Stray '\303' in program312555011#83#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(4@23"Stray '\251' in program312555011#157#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(4@23"Stray '\303' in program312555011#231#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(4@23"Stray '\251' in program312555011#305#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(4@38"'parit' was not declared in this scope312555011#379#89#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#34"'*' was not declared in this scope0(4@23"Expected `;' before 'a'312555011#468#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#19"expected * before *0(4@23"Stray '\303' in program312555011#542#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(4@23"Stray '\251' in program312555011#616#74#0(6@39"/Users/molz/Documents/parité/main.cpp312555011#54#0#54#0#20"stray '*' in program0(0#0#39"/Users/molz/Documents/parité/main.cpp4300882208#1268"    cd /Users/molz/Documents/parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-generated-files.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-own-target-headers.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-all-target-headers.hmap -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-project-headers.hmap -F/Users/molz/Documents/parité/build/Debug -I/Users/molz/Documents/parité/build/Debug/include -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources -c /Users/molz/Documents/parité/main.cpp -o /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/parité/build/Debug/parité normal x86_64
+s312650652.515154
+e312650652.536450
+r1
+xLd
+x/Users/molz/Documents/parité/build/Debug/parité
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/parité/build/Debug/parité312650652#312650652#0(0"0(0#0#0"4300882208#462"    cd /Users/molz/Documents/parité    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/parité/build/Debug -F/Users/molz/Documents/parité/build/Debug -filelist /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/parité.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/parité/build/Debug/parité0#
+
+CLd /Users/molz/Documents/parité/build/Debug/parité normal x86_64
+r0
+

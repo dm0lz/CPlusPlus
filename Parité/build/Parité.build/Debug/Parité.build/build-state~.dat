@@ -1,0 +1,51 @@
+TParité
+v7
+r0
+t328753118.005895
+cCheck dependencies
+cCompileC build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/Parité/build/Debug/Parité
+t2
+s0
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/Parité.LinkFileList
+c000000004DE8285D0000000000000064
+t1307060317
+s100
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/Parité/main.cpp
+c000000004DE8285D0000000000000138
+t1307060317
+s312
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328753117#328753117#0(0"0(0#1#0"33495659682791540#0"0#
+
+CCompileC build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328753117.743658
+e328753118.005821
+r0
+xCompileC
+xbuild/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/Parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/Parité/main.cpp328753117#328753118#0(469"/Users/molz/Documents/Parité/main.cpp:2: error: expected constructor, destructor, or type conversion before 'namespace'/Users/molz/Documents/Parité/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/Parité/main.cpp:8: error: 'cout' was not declared in this scope/Users/molz/Documents/Parité/main.cpp:8: error: 'endl' was not declared in this scope/Users/molz/Documents/Parité/main.cpp:9: error: 'cin' was not declared in this scope4(4@71"Expected constructor, destructor, or type conversion before 'namespace'328753118#0#121#0(6@39"/Users/molz/Documents/Parité/main.cpp328753117#2#0#2#0#19"expected * before *0(4@37"'cout' was not declared in this scope328753118#204#87#0(6@39"/Users/molz/Documents/Parité/main.cpp328753117#8#0#8#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope328753118#291#87#0(6@39"/Users/molz/Documents/Parité/main.cpp328753117#8#0#8#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope328753118#378#86#0(6@39"/Users/molz/Documents/Parité/main.cpp328753117#9#0#9#0#34"'*' was not declared in this scope0(0#0#39"/Users/molz/Documents/Parité/main.cpp32932997484183620#1221"    cd /Users/molz/Documents/Parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-generated-files.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-own-target-headers.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-all-target-headers.hmap -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-project-headers.hmap -F/Users/molz/Documents/Parité/build/Debug -I/Users/molz/Documents/Parité/build/Debug/include -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources -c /Users/molz/Documents/Parité/main.cpp -o /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/Parité/build/Debug/Parité normal x86_64
+r0
+

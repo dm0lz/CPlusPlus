@@ -1,0 +1,123 @@
+Tpourtester
+v7
+r0
+t357524449.446299
+cCheck dependencies
+cCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o /Users/molz/Documents/nbrealeatoire/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/nbrealeatoire/build/Debug/pourtester normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/nbrealeatoire/build/Debug/pourtester
+t1335831642
+s27728
+
+N/Users/molz/Documents/nbrealeatoire/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o
+t1288973590
+s93028
+
+N/Users/molz/Documents/nbrealeatoire/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/pourtester.LinkFileList
+c000000004F9F2C59000000000000006F
+t1335831641
+s111
+
+N/Users/molz/Documents/nbrealeatoire/main.cpp
+c000000004CD42D1500000000000000BC
+t1288973589
+s188
+i<iostream>
+
+N/Users/molz/Documents/pourtester/build/Debug/pourtester
+t1289258613
+s27728
+
+N/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o
+t1288973590
+s93028
+
+N/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/pourtester.LinkFileList
+c000000004CD88675000000000000006C
+t1289258613
+s108
+
+N/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/untitled.o
+t2
+s0
+
+N/Users/molz/Documents/pourtester/main.cpp
+c000000004CD42D1500000000000000BC
+t1288973589
+s188
+i<iostream>
+
+N/Users/molz/Documents/pourtester/untitled.cpp
+c000000004CD42C6200000000000002D8
+t1288973410
+s728
+
+N/Users/molz/Documents/pourtester/untitled.h
+c000000004CD42C310000000000000088
+t1288973361
+s136
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357524449#357524449#0(0"0(0#1#0"8592860480#0"0#
+
+CCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o /Users/molz/Documents/nbrealeatoire/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pourtester/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310666389.784444
+e310666390.219992
+r1
+xCompileC
+xbuild/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pourtester/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/molz/Documents/pourtester/main.cpp310666389#310666390#0(0"0(0#0#41"/Users/molz/Documents/pourtester/main.cpp4300882208#1326"    cd /Users/molz/Documents/pourtester    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-generated-files.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-own-target-headers.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-all-target-headers.hmap -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-project-headers.hmap -F/Users/molz/Documents/pourtester/build/Debug -I/Users/molz/Documents/pourtester/build/Debug/include -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources/x86_64 -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources -c /Users/molz/Documents/pourtester/main.cpp -o /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/untitled.o /Users/molz/Documents/pourtester/untitled.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310951376.337137
+e310951376.368622
+r0
+xCompileC
+xbuild/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/untitled.o
+x/Users/molz/Documents/pourtester/untitled.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/pourtester/untitled.cpp:4: error: 'string' does not name a type
+o/Users/molz/Documents/pourtester/untitled.cpp:7: error: expected constructor, destructor, or type conversion before '<<' token
+o/Users/molz/Documents/pourtester/untitled.cpp:8: error: expected constructor, destructor, or type conversion before '<<' token
+o/Users/molz/Documents/pourtester/untitled.cpp:9: error: expected constructor, destructor, or type conversion before '<<' token
+o/Users/molz/Documents/pourtester/untitled.cpp:12: error: expected unqualified-id before 'while'
+lSLF07#2@53"Compile /Users/molz/Documents/pourtester/untitled.cpp310951376#310951376#0(563"/Users/molz/Documents/pourtester/untitled.cpp:4: error: 'string' does not name a type/Users/molz/Documents/pourtester/untitled.cpp:7: error: expected constructor, destructor, or type conversion before '<<' token/Users/molz/Documents/pourtester/untitled.cpp:8: error: expected constructor, destructor, or type conversion before '<<' token/Users/molz/Documents/pourtester/untitled.cpp:9: error: expected constructor, destructor, or type conversion before '<<' token/Users/molz/Documents/pourtester/untitled.cpp:12: error: expected unqualified-id before 'while'5(4@29"'string' does not name a type310951376#0#86#0(6@45"/Users/molz/Documents/pourtester/untitled.cpp310666210#4#0#4#0#24"'*' does not name a type0(4@70"Expected constructor, destructor, or type conversion before '<<' token310951376#86#127#0(6@45"/Users/molz/Documents/pourtester/untitled.cpp310666210#7#0#7#0#19"expected * before *0(4@70"Expected constructor, destructor, or type conversion before '<<' token310951376#213#127#0(6@45"/Users/molz/Documents/pourtester/untitled.cpp310666210#8#0#8#0#19"expected * before *0(4@70"Expected constructor, destructor, or type conversion before '<<' token310951376#340#127#0(6@45"/Users/molz/Documents/pourtester/untitled.cpp310666210#9#0#9#0#19"expected * before *0(4@38"Expected unqualified-id before 'while'310951376#467#96#0(6@45"/Users/molz/Documents/pourtester/untitled.cpp310666210#12#0#12#0#19"expected * before *0(0#0#45"/Users/molz/Documents/pourtester/untitled.cpp3275089324280537600#1334"    cd /Users/molz/Documents/pourtester    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-generated-files.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-own-target-headers.hmap -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-all-target-headers.hmap -iquote /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/pourtester-project-headers.hmap -F/Users/molz/Documents/pourtester/build/Debug -I/Users/molz/Documents/pourtester/build/Debug/include -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources/x86_64 -I/Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/DerivedSources -c /Users/molz/Documents/pourtester/untitled.cpp -o /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/untitled.o1#
+
+CLd /Users/molz/Documents/nbrealeatoire/build/Debug/pourtester normal x86_64
+s357524441.346812
+e357524442.375214
+r1
+xLd
+x/Users/molz/Documents/nbrealeatoire/build/Debug/pourtester
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/molz/Documents/nbrealeatoire/build/Debug/pourtester357524441#357524442#0(0"0(0#0#0"32088568259018800#495"    cd /Users/molz/Documents/nbrealeatoire    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/nbrealeatoire/build/Debug -F/Users/molz/Documents/nbrealeatoire/build/Debug -filelist /Users/molz/Documents/nbrealeatoire/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/pourtester.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/nbrealeatoire/build/Debug/pourtester0#
+
+CLd /Users/molz/Documents/pourtester/build/Debug/pourtester normal x86_64
+s310951413.851296
+e310951413.891468
+r1
+xLd
+x/Users/molz/Documents/pourtester/build/Debug/pourtester
+xnormal
+xx86_64
+lSLF07#2@60"Link /Users/molz/Documents/pourtester/build/Debug/pourtester310951413#310951413#0(0"0(0#0#0"4300882208#480"    cd /Users/molz/Documents/pourtester    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/pourtester/build/Debug -F/Users/molz/Documents/pourtester/build/Debug -filelist /Users/molz/Documents/pourtester/build/pourtester.build/Debug/pourtester.build/Objects-normal/x86_64/pourtester.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/pourtester/build/Debug/pourtester0#
+

@@ -1,0 +1,58 @@
+Ttest
+v7
+r0
+t316194324.084182
+cCheck dependencies
+cCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o /Users/molz/Documents/test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/test/build/Debug/test
+t1294501262
+s10968
+
+N/Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList
+c000000004CD9D7A1000000000000005A
+t1289344929
+s90
+
+N/Users/molz/Documents/test/main.cpp
+c000000004D2886930000000000000238
+t1294501523
+s568
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316194323#316194323#0(0"0(0#1#0"8613743136#0"0#
+
+CCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o /Users/molz/Documents/test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316194323.875889
+e316194324.084124
+r0
+xCompileC
+xbuild/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/molz/Documents/test/main.cpp316194323#316194324#0(766"/Users/molz/Documents/test/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/test/main.cpp:36: error: expected `}' before ';' token/Users/molz/Documents/test/main.cpp:36: error: expected `;' before '}' token/Users/molz/Documents/test/main.cpp:36: warning: unused variable 'p1'/Users/molz/Documents/test/main.cpp: At global scope:/Users/molz/Documents/test/main.cpp:36: error: expected unqualified-id before '<<' token/Users/molz/Documents/test/main.cpp:38: error: expected constructor, destructor, or type conversion before '=' token/Users/molz/Documents/test/main.cpp:40: error: expected constructor, destructor, or type conversion before '(' token/Users/molz/Documents/test/main.cpp:41: error: expected declaration before '}' token10(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.316193506#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.316193506#18446744073709551615#0#0(1@0"0(4@29"Expected `}' before ';' token316194324#80#77#0(6@35"/Users/molz/Documents/test/main.cpp316194323#36#0#36#0#19"expected * before *0(4@29"Expected `;' before '}' token316194324#157#77#0(6@35"/Users/molz/Documents/test/main.cpp316194323#36#0#36#0#19"expected * before *0(22@20"Unused variable 'p1'316194324#234#70#0(6@35"/Users/molz/Documents/test/main.cpp316194323#36#0#36#0#19"unused variable '*'0(23@16"At global scope:316194324#304#54#0(6@35"/Users/molz/Documents/test/main.cpp316194323#0#0#0#0#0"0(4@41"Expected unqualified-id before '<<' token316194324#358#89#0(6@35"/Users/molz/Documents/test/main.cpp316194323#36#0#36#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '=' token316194324#447#117#0(6@35"/Users/molz/Documents/test/main.cpp316194323#38#0#38#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '(' token316194324#564#117#0(6@35"/Users/molz/Documents/test/main.cpp316194323#40#0#40#0#19"expected * before *0(4@37"Expected declaration before '}' token316194324#681#85#0(6@35"/Users/molz/Documents/test/main.cpp316194323#41#0#41#0#19"expected * before *0(0#0#35"/Users/molz/Documents/test/main.cpp8613621344#1105"    cd /Users/molz/Documents/test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/test/build/test.build/Debug/test.build/test-generated-files.hmap -I/Users/molz/Documents/test/build/test.build/Debug/test.build/test-own-target-headers.hmap -I/Users/molz/Documents/test/build/test.build/Debug/test.build/test-all-target-headers.hmap -iquote /Users/molz/Documents/test/build/test.build/Debug/test.build/test-project-headers.hmap -F/Users/molz/Documents/test/build/Debug -I/Users/molz/Documents/test/build/Debug/include -I/Users/molz/Documents/test/build/test.build/Debug/test.build/DerivedSources/x86_64 -I/Users/molz/Documents/test/build/test.build/Debug/test.build/DerivedSources -c /Users/molz/Documents/test/main.cpp -o /Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/test/build/Debug/test normal x86_64
+s316194062.008523
+e316194062.027687
+r1
+xLd
+x/Users/molz/Documents/test/build/Debug/test
+xnormal
+xx86_64
+lSLF07#2@48"Link /Users/molz/Documents/test/build/Debug/test316194062#316194062#0(0"0(0#0#0"8613183584#426"    cd /Users/molz/Documents/test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/test/build/Debug -F/Users/molz/Documents/test/build/Debug -filelist /Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/test/build/Debug/test0#
+

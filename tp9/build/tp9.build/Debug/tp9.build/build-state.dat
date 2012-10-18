@@ -1,0 +1,59 @@
+Ttp9
+v7
+r0
+t324083897.337134
+cCheck dependencies
+cCompileC build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tp9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/tp9/build/Debug/tp9 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/tp9/build/Debug/tp9
+t1298048121
+s15904
+
+N/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/main.o
+t1298048121
+s71548
+
+N/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/tp9.LinkFileList
+c000000004D5E8CE30000000000000057
+t1298042083
+s87
+
+N/Users/molz/Documents/tp9/main.cpp
+c000000004D5EA47800000000000006E0
+t1298048120
+s1760
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324083897#324083897#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/main.o /Users/molz/Documents/tp9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319740920.903849
+e319740921.242407
+r1
+xCompileC
+xbuild/tp9.build/Debug/tp9.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/tp9/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/molz/Documents/tp9/main.cpp319740920#319740921#0(0"0(0#0#34"/Users/molz/Documents/tp9/main.cpp8611273728#1076"    cd /Users/molz/Documents/tp9    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/tp9-generated-files.hmap -I/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/tp9-own-target-headers.hmap -I/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/tp9-all-target-headers.hmap -iquote /Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/tp9-project-headers.hmap -F/Users/molz/Documents/tp9/build/Debug -I/Users/molz/Documents/tp9/build/Debug/include -I/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/DerivedSources/x86_64 -I/Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/DerivedSources -c /Users/molz/Documents/tp9/main.cpp -o /Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/tp9/build/Debug/tp9 normal x86_64
+s319740921.242502
+e319740921.260879
+r1
+xLd
+x/Users/molz/Documents/tp9/build/Debug/tp9
+xnormal
+xx86_64
+lSLF07#2@46"Link /Users/molz/Documents/tp9/build/Debug/tp9319740921#319740921#0(0"0(0#0#0"8612742208#417"    cd /Users/molz/Documents/tp9    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/tp9/build/Debug -F/Users/molz/Documents/tp9/build/Debug -filelist /Users/molz/Documents/tp9/build/tp9.build/Debug/tp9.build/Objects-normal/x86_64/tp9.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/tp9/build/Debug/tp90#
+

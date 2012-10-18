@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6DC0A37C128A0E87002605A2 /* test */;
+		activeTarget = 8DD76F620486A84900D96B5E /* test */;
+		codeSenseManager = 6DC0A381128A0EA5002605A2 /* Code sense */;
+		executables = (
+			6DC0A37C128A0E87002605A2 /* test */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					608,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329954520;
+			PBXWorkspaceStateSaveDate = 329954520;
+		};
+		perUserProjectItems = {
+			6D037BF012D8C8AF00BA76E0 /* PBXTextBookmark */ = 6D037BF012D8C8AF00BA76E0 /* PBXTextBookmark */;
+			6D22977F13AAB5340022E7C2 /* PBXTextBookmark */ = 6D22977F13AAB5340022E7C2 /* PBXTextBookmark */;
+			6D8B256B1398649C003EDDFD /* PBXTextBookmark */ = 6D8B256B1398649C003EDDFD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6DC0A380128A0EA5002605A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 572}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{187, 254}";
+		};
+	};
+	6D037BF012D8C8AF00BA76E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 14";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 42;
+	};
+	6D22977F13AAB5340022E7C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D22978013AAB5340022E7C2 /* 1x06_Corr.cpp */;
+		name = "1x06_Corr.cpp: 83";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1005;
+	};
+	6D22978013AAB5340022E7C2 /* 1x06_Corr.cpp */ = {
+		isa = PBXFileReference;
+		name = 1x06_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x06_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6D8B256B1398649C003EDDFD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D8B256C1398649C003EDDFD /* 1x06_Corr.cpp */;
+		name = "1x06_Corr.cpp: 83";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 3111;
+	};
+	6D8B256C1398649C003EDDFD /* 1x06_Corr.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 1x06_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x06_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6DC0A37C128A0E87002605A2 /* test */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = test;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6DC0A380128A0EA5002605A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6DC0A381128A0EA5002605A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* test */ = {
+		activeExec = 0;
+		executables = (
+			6DC0A37C128A0E87002605A2 /* test */,
+		);
+	};
+}

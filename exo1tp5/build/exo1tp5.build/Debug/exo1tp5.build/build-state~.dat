@@ -1,0 +1,58 @@
+Texo1tp5
+v7
+r0
+t313409819.675623
+cCheck dependencies
+cCompileC build/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo1tp5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo1tp5/build/Debug/exo1tp5
+t2
+s0
+
+N/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/exo1tp5.LinkFileList
+c000000004CFE099B0000000000000063
+t1291717019
+s99
+
+N/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo1tp5/main.cpp
+c000000004CFE099A000000000000014A
+t1291717018
+s330
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313409819#313409819#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo1tp5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313409819.327411
+e313409819.675542
+r0
+xCompileC
+xbuild/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo1tp5/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/exo1tp5/main.cpp: In function 'int nbChiffresDuCarre(int)':
+o/Users/molz/Documents/exo1tp5/main.cpp:10: error: expected `;' before '}' token
+o/Users/molz/Documents/exo1tp5/main.cpp:12: error: expected `;' before '}' token
+o/Users/molz/Documents/exo1tp5/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/exo1tp5/main.cpp:25: error: 'cout' was not declared in this scope
+o/Users/molz/Documents/exo1tp5/main.cpp:25: error: 'endl' was not declared in this scope
+o/Users/molz/Documents/exo1tp5/main.cpp:26: error: 'cin' was not declared in this scope
+lSLF07#2@46"Compile /Users/molz/Documents/exo1tp5/main.cpp313409819#313409819#0(588"/Users/molz/Documents/exo1tp5/main.cpp: In function 'int nbChiffresDuCarre(int)':/Users/molz/Documents/exo1tp5/main.cpp:10: error: expected `;' before '}' token/Users/molz/Documents/exo1tp5/main.cpp:12: error: expected `;' before '}' token/Users/molz/Documents/exo1tp5/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exo1tp5/main.cpp:25: error: 'cout' was not declared in this scope/Users/molz/Documents/exo1tp5/main.cpp:25: error: 'endl' was not declared in this scope/Users/molz/Documents/exo1tp5/main.cpp:26: error: 'cin' was not declared in this scope5(4@29"Expected `;' before '}' token313409819#82#80#0(6@38"/Users/molz/Documents/exo1tp5/main.cpp313409818#10#0#10#0#19"expected * before *0(4@29"Expected `;' before '}' token313409819#162#80#0(6@38"/Users/molz/Documents/exo1tp5/main.cpp313409818#12#0#12#0#19"expected * before *0(4@37"'cout' was not declared in this scope313409819#325#88#0(6@38"/Users/molz/Documents/exo1tp5/main.cpp313409818#25#0#25#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope313409819#413#88#0(6@38"/Users/molz/Documents/exo1tp5/main.cpp313409818#25#0#25#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope313409819#501#87#0(6@38"/Users/molz/Documents/exo1tp5/main.cpp313409818#26#0#26#0#34"'*' was not declared in this scope0(0#0#38"/Users/molz/Documents/exo1tp5/main.cpp7809643567100341248#1239"    cd /Users/molz/Documents/exo1tp5    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/exo1tp5-generated-files.hmap -I/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/exo1tp5-own-target-headers.hmap -I/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/exo1tp5-all-target-headers.hmap -iquote /Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/exo1tp5-project-headers.hmap -F/Users/molz/Documents/exo1tp5/build/Debug -I/Users/molz/Documents/exo1tp5/build/Debug/include -I/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/DerivedSources -c /Users/molz/Documents/exo1tp5/main.cpp -o /Users/molz/Documents/exo1tp5/build/exo1tp5.build/Debug/exo1tp5.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo1tp5/build/Debug/exo1tp5 normal x86_64
+r0
+

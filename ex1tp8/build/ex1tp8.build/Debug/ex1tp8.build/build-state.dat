@@ -1,0 +1,59 @@
+Tex1tp8
+v7
+r0
+t319392325.018735
+cCheck dependencies
+cCompileC build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/ex1tp8/build/Debug/ex1tp8 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/ex1tp8/build/Debug/ex1tp8
+t1297699525
+s11560
+
+N/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/ex1tp8.LinkFileList
+c000000004D355C7C0000000000000060
+t1295342716
+s96
+
+N/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o
+t1297699524
+s73000
+
+N/Users/molz/Documents/ex1tp8/main.cpp
+c000000004D5952C400000000000003C9
+t1297699524
+s969
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319392324#319392324#0(0"0(0#1#0"8613599328#0"0#
+
+CCompileC build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/ex1tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319392324.638782
+e319392324.996290
+r1
+xCompileC
+xbuild/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/ex1tp8/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/molz/Documents/ex1tp8/main.cpp319392324#319392324#0(0"0(0#0#37"/Users/molz/Documents/ex1tp8/main.cpp8611269024#1163"    cd /Users/molz/Documents/ex1tp8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-generated-files.hmap -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-own-target-headers.hmap -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-all-target-headers.hmap -iquote /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/ex1tp8-project-headers.hmap -F/Users/molz/Documents/ex1tp8/build/Debug -I/Users/molz/Documents/ex1tp8/build/Debug/include -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/DerivedSources/x86_64 -I/Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/DerivedSources -c /Users/molz/Documents/ex1tp8/main.cpp -o /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/ex1tp8/build/Debug/ex1tp8 normal x86_64
+s319392324.996376
+e319392325.018687
+r1
+xLd
+x/Users/molz/Documents/ex1tp8/build/Debug/ex1tp8
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/molz/Documents/ex1tp8/build/Debug/ex1tp8319392324#319392325#0(0"0(0#0#0"8612409120#444"    cd /Users/molz/Documents/ex1tp8    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/ex1tp8/build/Debug -F/Users/molz/Documents/ex1tp8/build/Debug -filelist /Users/molz/Documents/ex1tp8/build/ex1tp8.build/Debug/ex1tp8.build/Objects-normal/x86_64/ex1tp8.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/ex1tp8/build/Debug/ex1tp80#
+

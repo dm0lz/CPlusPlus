@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D56459A12AD692300E703AF /* pyrami */;
+		activeTarget = 8DD76F620486A84900D96B5E /* pyrami */;
+		codeSenseManager = 6D5645A012AD694100E703AF /* Code sense */;
+		executables = (
+			6D56459A12AD692300E703AF /* pyrami */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					681,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316187235;
+			PBXWorkspaceStateSaveDate = 316187235;
+		};
+		perUserProjectItems = {
+			6D0E6AF612D5470700708A6E /* PBXTextBookmark */ = 6D0E6AF612D5470700708A6E /* PBXTextBookmark */;
+			6D0E6AF912D5470700708A6E /* PBXTextBookmark */ = 6D0E6AF912D5470700708A6E /* PBXTextBookmark */;
+			6D14A42212D8A27B00734070 /* PBXTextBookmark */ = 6D14A42212D8A27B00734070 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D56459F12AD694100E703AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 845}}";
+			sepNavSelRange = "{587, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	6D0E6AF612D5470700708A6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 587;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	6D0E6AF912D5470700708A6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D0E6AFA12D5470700708A6E /* 1x05_Corr.cpp */;
+		name = "1x05_Corr.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	6D0E6AFA12D5470700708A6E /* 1x05_Corr.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 1x05_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x05_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6D14A42212D8A27B00734070 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D14A42312D8A27B00734070 /* 1x05_Corr.cpp */;
+		name = "1x05_Corr.cpp: 6";
+		rLen = 132;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 115;
+	};
+	6D14A42312D8A27B00734070 /* 1x05_Corr.cpp */ = {
+		isa = PBXFileReference;
+		name = 1x05_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x05_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6D56459A12AD692300E703AF /* pyrami */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = pyrami;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6D56459F12AD694100E703AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D5645A012AD694100E703AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* pyrami */ = {
+		activeExec = 0;
+		executables = (
+			6D56459A12AD692300E703AF /* pyrami */,
+		);
+	};
+}

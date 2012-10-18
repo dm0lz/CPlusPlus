@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6DF8B12512D1FAA600B0120B /* ligne */;
+		activeTarget = 8DD76F620486A84900D96B5E /* ligne */;
+		codeSenseManager = 6DF8B12B12D1FAC600B0120B /* Code sense */;
+		executables = (
+			6DF8B12512D1FAA600B0120B /* ligne */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					538,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316193197;
+			PBXWorkspaceStateSaveDate = 316193197;
+		};
+		perUserProjectItems = {
+			6D037B9412D8B9B400BA76E0 /* PBXTextBookmark */ = 6D037B9412D8B9B400BA76E0 /* PBXTextBookmark */;
+			6D14A48312D8A55C00734070 /* PBXTextBookmark */ = 6D14A48312D8A55C00734070 /* PBXTextBookmark */;
+			6D14A49B12D8A5A000734070 /* PBXTextBookmark */ = 6D14A49B12D8A5A000734070 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6DF8B12A12D1FAC600B0120B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 676}}";
+			sepNavSelRange = "{604, 0}";
+			sepNavVisRange = "{514, 216}";
+		};
+	};
+	6D037B9412D8B9B400BA76E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D037B9512D8B9B400BA76E0 /* 1x06_Corr.cpp */;
+		name = "1x06_Corr.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 489;
+	};
+	6D037B9512D8B9B400BA76E0 /* 1x06_Corr.cpp */ = {
+		isa = PBXFileReference;
+		name = 1x06_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x06_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6D14A48312D8A55C00734070 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 604;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 217;
+	};
+	6D14A49B12D8A5A000734070 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D14A49C12D8A5A000734070 /* 1x06_Corr.cpp */;
+		name = "1x06_Corr.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 0;
+	};
+	6D14A49C12D8A5A000734070 /* 1x06_Corr.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 1x06_Corr.cpp;
+		path = "/Users/molz/Desktop/Dev. Stuff/1x06_Corr.cpp";
+		sourceTree = "<absolute>";
+	};
+	6DF8B12512D1FAA600B0120B /* ligne */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ligne;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6DF8B12A12D1FAC600B0120B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6DF8B12B12D1FAC600B0120B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* ligne */ = {
+		activeExec = 0;
+		executables = (
+			6DF8B12512D1FAA600B0120B /* ligne */,
+		);
+	};
+}

@@ -1,0 +1,54 @@
+TExo1 tp4
+v7
+r0
+t312201185.534184
+cCheck dependencies
+cCompileC "build/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/Exo1 tp4/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/Exo1 tp4/build/Debug/Exo1 tp4
+t2
+s0
+
+N/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/Exo1 tp4.LinkFileList
+c000000004CEB98600000000000000066
+t1290508384
+s102
+
+N/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/Exo1 tp4/main.cpp
+c000000004CEB986000000000000000F1
+t1290508384
+s241
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312201184#312201184#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/main.o" "/Users/molz/Documents/Exo1 tp4/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312201184.715330
+e312201185.534060
+r0
+xCompileC
+xbuild/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/Exo1 tp4/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/Exo1 tp4/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/Exo1 tp4/main.cpp:10: error: a function-definition is not allowed here before '{' token
+o/Users/molz/Documents/Exo1 tp4/main.cpp:22: error: expected `}' at end of input
+lSLF07#2@47"Compile /Users/molz/Documents/Exo1 tp4/main.cpp312201184#312201185#0(274"/Users/molz/Documents/Exo1 tp4/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/Exo1 tp4/main.cpp:10: error: a function-definition is not allowed here before '{' token/Users/molz/Documents/Exo1 tp4/main.cpp:22: error: expected `}' at end of input2(4@58"A function-definition is not allowed here before '{' token312201185#84#110#0(6@39"/Users/molz/Documents/Exo1 tp4/main.cpp312201184#10#0#10#0#0"0(4@28"Expected `}' at end of input312201185#194#80#0(6@39"/Users/molz/Documents/Exo1 tp4/main.cpp312201184#22#0#22#0#0"0(0#0#39"/Users/molz/Documents/Exo1 tp4/main.cpp8245930584228258816#1290"    cd "/Users/molz/Documents/Exo1 tp4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Exo1 tp4-generated-files.hmap" "-I/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Exo1 tp4-own-target-headers.hmap" "-I/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Exo1 tp4-all-target-headers.hmap" -iquote "/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Exo1 tp4-project-headers.hmap" "-F/Users/molz/Documents/Exo1 tp4/build/Debug" "-I/Users/molz/Documents/Exo1 tp4/build/Debug/include" "-I/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/DerivedSources/x86_64" "-I/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/DerivedSources" -c "/Users/molz/Documents/Exo1 tp4/main.cpp" -o "/Users/molz/Documents/Exo1 tp4/build/Exo1 tp4.build/Debug/Exo1 tp4.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/molz/Documents/Exo1 tp4/build/Debug/Exo1 tp4" normal x86_64
+r0
+

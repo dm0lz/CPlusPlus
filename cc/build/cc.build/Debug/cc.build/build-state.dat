@@ -1,0 +1,53 @@
+Tcc
+v7
+r0
+t318081590.654894
+cCheck dependencies
+cCompileC build/cc.build/Debug/cc.build/Objects-normal/x86_64/main.o /Users/molz/Documents/cc/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/cc/build/Debug/cc
+t2
+s0
+
+N/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/Objects-normal/x86_64/cc.LinkFileList
+c000000004D4552B60000000000000054
+t1296388790
+s84
+
+N/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/cc/main.cpp
+c000000004D4552B60000000000000D81
+t1296388790
+s3457
+i<iostream>
+i<ctime>
+i<cstdlib>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318081590#318081590#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/cc.build/Debug/cc.build/Objects-normal/x86_64/main.o /Users/molz/Documents/cc/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318081590.371317
+e318081590.654801
+r0
+xCompileC
+xbuild/cc.build/Debug/cc.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/cc/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/molz/Documents/cc/main.cpp318081590#318081590#0(172"/Users/molz/Documents/cc/main.cpp: In function 'int main()':/Users/molz/Documents/cc/main.cpp:28: error: cast from 'time_t (*)(time_t*)' to 'unsigned int' loses precision1(4@65"Cast from 'time_t (*)(time_t*)' to 'unsigned int' loses precision318081590#61#111#0(6@33"/Users/molz/Documents/cc/main.cpp318081590#28#0#28#0#0"0(0#0#33"/Users/molz/Documents/cc/main.cpp8310600503732891648#1047"    cd /Users/molz/Documents/cc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/cc/build/cc.build/Debug/cc.build/cc-generated-files.hmap -I/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/cc-own-target-headers.hmap -I/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/cc-all-target-headers.hmap -iquote /Users/molz/Documents/cc/build/cc.build/Debug/cc.build/cc-project-headers.hmap -F/Users/molz/Documents/cc/build/Debug -I/Users/molz/Documents/cc/build/Debug/include -I/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/DerivedSources/x86_64 -I/Users/molz/Documents/cc/build/cc.build/Debug/cc.build/DerivedSources -c /Users/molz/Documents/cc/main.cpp -o /Users/molz/Documents/cc/build/cc.build/Debug/cc.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/cc/build/Debug/cc normal x86_64
+r0
+

@@ -1,0 +1,76 @@
+Tparité
+v7
+r0
+t312554754.240805
+cCheck dependencies
+cCompileC build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/parité/build/Debug/parité
+t2
+s0
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/parité.LinkFileList
+c000000004CF0FD810000000000000065
+t1290861953
+s101
+
+N/Users/molz/Documents/parité/main.cpp
+c000000004CF0FD81000000000000035D
+t1290861953
+s861
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312554753#312554753#0(0"0(0#1#0"29555362187247728#0"0#
+
+CCompileC build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312554753.804125
+e312554754.240712
+r0
+xCompileC
+xbuild/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/parité/main.cpp:57:85: warning: missing terminating " character
+o/Users/molz/Documents/parité/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:52: error: 'parit' was not declared in this scope
+o/Users/molz/Documents/parité/main.cpp:52: error: expected `;' before 'a'
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:53: error: expected `;' before 'b'
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: expected `;' before 'a'
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program
+o/Users/molz/Documents/parité/main.cpp:57: error: missing terminating " character
+lSLF07#2@47"Compile /Users/molz/Documents/parité/main.cpp312554753#312554754#0(1920"/Users/molz/Documents/parité/main.cpp:57:85: warning: missing terminating " character/Users/molz/Documents/parité/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:52: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:52: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:52: error: 'parit' was not declared in this scope/Users/molz/Documents/parité/main.cpp:52: error: expected `;' before 'a'/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:53: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:53: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:53: error: expected `;' before 'b'/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:57: error: expected `;' before 'a'/Users/molz/Documents/parité/main.cpp:57: error: stray '\303' in program/Users/molz/Documents/parité/main.cpp:57: error: stray '\251' in program/Users/molz/Documents/parité/main.cpp:57: error: missing terminating " character24(22@31"Missing terminating " character312554753#0#87#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#0"0(4@23"Stray '\303' in program312554754#170#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#244#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@23"Stray '\303' in program312554754#318#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#392#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@23"Stray '\303' in program312554754#466#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#540#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#20"stray '*' in program0(4@38"'parit' was not declared in this scope312554754#614#89#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#34"'*' was not declared in this scope0(4@23"Expected `;' before 'a'312554754#703#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#52#0#52#0#19"expected * before *0(4@23"Stray '\303' in program312554754#777#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#851#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Stray '\303' in program312554754#925#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#999#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Stray '\303' in program312554754#1073#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#1147#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#20"stray '*' in program0(4@23"Expected `;' before 'b'312554754#1221#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#53#0#53#0#19"expected * before *0(4@23"Stray '\303' in program312554754#1295#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#1369#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@23"Stray '\303' in program312554754#1443#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#1517#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@23"Expected `;' before 'a'312554754#1591#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#19"expected * before *0(4@23"Stray '\303' in program312554754#1665#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@23"Stray '\251' in program312554754#1739#74#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#20"stray '*' in program0(4@31"Missing terminating " character312554754#1813#82#0(6@39"/Users/molz/Documents/parité/main.cpp312554753#57#0#57#0#0"0(0#0#39"/Users/molz/Documents/parité/main.cpp34340411022442604#1268"    cd /Users/molz/Documents/parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-generated-files.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-own-target-headers.hmap -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-all-target-headers.hmap -iquote /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/parité-project-headers.hmap -F/Users/molz/Documents/parité/build/Debug -I/Users/molz/Documents/parité/build/Debug/include -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/parité/build/parité.build/Debug/parité.build/DerivedSources -c /Users/molz/Documents/parité/main.cpp -o /Users/molz/Documents/parité/build/parité.build/Debug/parité.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/parité/build/Debug/parité normal x86_64
+r0
+

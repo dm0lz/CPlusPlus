@@ -1,0 +1,51 @@
+Texo4
+v7
+r0
+t310948975.268196
+cCheck dependencies
+cCompileC build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo4/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo4/build/Debug/exo4
+t2
+s0
+
+N/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/exo4.LinkFileList
+c000000004CD87CEE000000000000005A
+t1289256174
+s90
+
+N/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exo4/main.cpp
+c000000004CD87CEE000000000000013D
+t1289256174
+s317
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310948974#310948974#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo4/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310948974.934074
+e310948975.268133
+r0
+xCompileC
+xbuild/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo4/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/molz/Documents/exo4/main.cpp310948974#310948975#0(606"/Users/molz/Documents/exo4/main.cpp: In function 'int main()':/Users/molz/Documents/exo4/main.cpp:15: error: 'hypothenuse' was not declared in this scope/Users/molz/Documents/exo4/main.cpp:15: error: stray '\342' in program/Users/molz/Documents/exo4/main.cpp:15: error: stray '\210' in program/Users/molz/Documents/exo4/main.cpp:15: error: stray '\232' in program/Users/molz/Documents/exo4/main.cpp:15: error: 'a' was not declared in this scope/Users/molz/Documents/exo4/main.cpp:15: error: 'b' was not declared in this scope/Users/molz/Documents/exo4/main.cpp:16: error: expected `;' before 'cout'7(4@44"'hypothenuse' was not declared in this scope310948975#63#92#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#34"'*' was not declared in this scope0(4@23"Stray '\342' in program310948975#155#71#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#20"stray '*' in program0(4@23"Stray '\210' in program310948975#226#71#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#20"stray '*' in program0(4@23"Stray '\232' in program310948975#297#71#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#20"stray '*' in program0(4@34"'a' was not declared in this scope310948975#368#82#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#34"'*' was not declared in this scope0(4@34"'b' was not declared in this scope310948975#450#82#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#15#0#15#0#34"'*' was not declared in this scope0(4@26"Expected `;' before 'cout'310948975#532#74#0(6@35"/Users/molz/Documents/exo4/main.cpp310948974#16#0#16#0#19"expected * before *0(0#0#35"/Users/molz/Documents/exo4/main.cpp4300882208#1152"    cd /Users/molz/Documents/exo4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-generated-files.hmap -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-own-target-headers.hmap -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-all-target-headers.hmap -iquote /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-project-headers.hmap -F/Users/molz/Documents/exo4/build/Debug -I/Users/molz/Documents/exo4/build/Debug/include -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/DerivedSources -c /Users/molz/Documents/exo4/main.cpp -o /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exo4/build/Debug/exo4 normal x86_64
+r0
+

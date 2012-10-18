@@ -1,0 +1,51 @@
+Ttest
+v7
+r0
+t311037729.378755
+cCheck dependencies
+cCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o /Users/molz/Documents/test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/test/build/Debug/test
+t2
+s0
+
+N/Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList
+c000000004CD9D7A1000000000000005A
+t1289344929
+s90
+
+N/Users/molz/Documents/test/main.cpp
+c000000004CD9D7A100000000000000F4
+t1289344929
+s244
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311037729#311037729#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o /Users/molz/Documents/test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311037729.071129
+e311037729.378698
+r0
+xCompileC
+xbuild/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/molz/Documents/test/main.cpp311037729#311037729#0(168"/Users/molz/Documents/test/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/test/main.cpp:11: error: 'produit' was not declared in this scope1(4@40"'produit' was not declared in this scope311037729#80#88#0(6@35"/Users/molz/Documents/test/main.cpp311037729#11#0#11#0#34"'*' was not declared in this scope0(0#0#35"/Users/molz/Documents/test/main.cpp4300882208#1152"    cd /Users/molz/Documents/test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/test/build/test.build/Debug/test.build/test-generated-files.hmap -I/Users/molz/Documents/test/build/test.build/Debug/test.build/test-own-target-headers.hmap -I/Users/molz/Documents/test/build/test.build/Debug/test.build/test-all-target-headers.hmap -iquote /Users/molz/Documents/test/build/test.build/Debug/test.build/test-project-headers.hmap -F/Users/molz/Documents/test/build/Debug -I/Users/molz/Documents/test/build/Debug/include -I/Users/molz/Documents/test/build/test.build/Debug/test.build/DerivedSources/x86_64 -I/Users/molz/Documents/test/build/test.build/Debug/test.build/DerivedSources -c /Users/molz/Documents/test/main.cpp -o /Users/molz/Documents/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/test/build/Debug/test normal x86_64
+r0
+

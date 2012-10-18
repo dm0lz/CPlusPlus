@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D2297C513AAC01E0022E7C2 /* tableau */;
+		activeTarget = 8DD76F620486A84900D96B5E /* tableau */;
+		codeSenseManager = 6D2297D313AAC02B0022E7C2 /* Code sense */;
+		executables = (
+			6D2297C513AAC01E0022E7C2 /* tableau */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					753,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 361425020;
+			PBXWorkspaceStateSaveDate = 361425020;
+		};
+		perUserProjectItems = {
+			6D03F175158AE94900E3455D /* PBXTextBookmark */ = 6D03F175158AE94900E3455D /* PBXTextBookmark */;
+			6D96F2F91586DBBF00543568 /* PBXTextBookmark */ = 6D96F2F91586DBBF00543568 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D2297D213AAC02B0022E7C2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 489}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	6D03F175158AE94900E3455D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	6D2297C513AAC01E0022E7C2 /* tableau */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = tableau;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6D2297D213AAC02B0022E7C2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D2297D313AAC02B0022E7C2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D96F2F91586DBBF00543568 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 14";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* tableau */ = {
+		activeExec = 0;
+		executables = (
+			6D2297C513AAC01E0022E7C2 /* tableau */,
+		);
+	};
+}

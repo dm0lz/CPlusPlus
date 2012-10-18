@@ -1,0 +1,59 @@
+Tfonction
+v7
+r0
+t312800521.011606
+cCheck dependencies
+cCompileC build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/main.o /Users/molz/Documents/fonction/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/fonction/build/Debug/fonction normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/fonction/build/Debug/fonction
+t1291107721
+s27744
+
+N/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/fonction.LinkFileList
+c000000004CF4BD870000000000000066
+t1291107719
+s102
+
+N/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/main.o
+t1291107720
+s93536
+
+N/Users/molz/Documents/fonction/main.cpp
+c000000004CF4BF0E000000000000019B
+t1291108110
+s411
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312800519#312800519#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/main.o /Users/molz/Documents/fonction/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312800519.909052
+e312800520.630401
+r1
+xCompileC
+xbuild/fonction.build/Debug/fonction.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/fonction/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/fonction/main.cpp312800519#312800520#0(0"0(0#0#39"/Users/molz/Documents/fonction/main.cpp7886488416478786560#1268"    cd /Users/molz/Documents/fonction    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/fonction-generated-files.hmap -I/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/fonction-own-target-headers.hmap -I/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/fonction-all-target-headers.hmap -iquote /Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/fonction-project-headers.hmap -F/Users/molz/Documents/fonction/build/Debug -I/Users/molz/Documents/fonction/build/Debug/include -I/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/DerivedSources/x86_64 -I/Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/DerivedSources -c /Users/molz/Documents/fonction/main.cpp -o /Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/fonction/build/Debug/fonction normal x86_64
+s312800520.630508
+e312800521.011528
+r1
+xLd
+x/Users/molz/Documents/fonction/build/Debug/fonction
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/fonction/build/Debug/fonction312800520#312800521#0(0"0(0#0#0"32370120545140836#462"    cd /Users/molz/Documents/fonction    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/fonction/build/Debug -F/Users/molz/Documents/fonction/build/Debug -filelist /Users/molz/Documents/fonction/build/fonction.build/Debug/fonction.build/Objects-normal/x86_64/fonction.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/fonction/build/Debug/fonction0#
+

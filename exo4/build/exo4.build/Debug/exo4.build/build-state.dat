@@ -1,0 +1,67 @@
+Texo4
+v7
+r0
+t311555660.527116
+cCheck dependencies
+cCompileC build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo4/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exo4/build/Debug/exo4 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/molz/Documents/exo4/build/Debug/exo4
+t1289260051
+s40176
+
+N/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/exo4.LinkFileList
+c000000004CD87CEE000000000000005A
+t1289256174
+s90
+
+N/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o
+t1289260051
+s128732
+
+N/Users/molz/Documents/exo4/main.cpp
+c000000004CD88C1300000000000001D8
+t1289260051
+s472
+i<iostream>
+i<cstdlib>
+i<math.h>
+i<cstdio>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311555660#311555660#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo4/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310952851.066010
+e310952851.490120
+r1
+xCompileC
+xbuild/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo4/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/molz/Documents/exo4/main.cpp310952851#310952851#0(0"0(0#0#35"/Users/molz/Documents/exo4/main.cpp4300882208#1152"    cd /Users/molz/Documents/exo4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-generated-files.hmap -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-own-target-headers.hmap -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-all-target-headers.hmap -iquote /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/exo4-project-headers.hmap -F/Users/molz/Documents/exo4/build/Debug -I/Users/molz/Documents/exo4/build/Debug/include -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/DerivedSources -c /Users/molz/Documents/exo4/main.cpp -o /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/exo4/build/Debug/exo4 normal x86_64
+s310952851.490189
+e310952851.510923
+r1
+xLd
+x/Users/molz/Documents/exo4/build/Debug/exo4
+xnormal
+xx86_64
+lSLF07#2@48"Link /Users/molz/Documents/exo4/build/Debug/exo4310952851#310952851#0(0"0(0#0#0"4300882208#426"    cd /Users/molz/Documents/exo4    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exo4/build/Debug -F/Users/molz/Documents/exo4/build/Debug -filelist /Users/molz/Documents/exo4/build/exo4.build/Debug/exo4.build/Objects-normal/x86_64/exo4.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exo4/build/Debug/exo40#
+

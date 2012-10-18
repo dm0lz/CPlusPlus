@@ -1,0 +1,51 @@
+Tpyramide
+v7
+r0
+t313083805.239184
+cCheck dependencies
+cCompileC build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyramide/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/pyramide/build/Debug/pyramide
+t2
+s0
+
+N/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/pyramide.LinkFileList
+c000000004CF9101D0000000000000066
+t1291391005
+s102
+
+N/Users/molz/Documents/pyramide/main.cpp
+c000000004CF9101C0000000000000235
+t1291391004
+s565
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313083804#313083805#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pyramide/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313083805.012980
+e313083805.239123
+r0
+xCompileC
+xbuild/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pyramide/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/pyramide/main.cpp313083805#313083805#0(261"/Users/molz/Documents/pyramide/main.cpp: In function 'void pyramide()':/Users/molz/Documents/pyramide/main.cpp:8: error: a function-definition is not allowed here before '{' token/Users/molz/Documents/pyramide/main.cpp:39: error: expected `}' at end of input2(4@58"A function-definition is not allowed here before '{' token313083805#72#109#0(6@39"/Users/molz/Documents/pyramide/main.cpp313083804#8#0#8#0#0"0(4@28"Expected `}' at end of input313083805#181#80#0(6@39"/Users/molz/Documents/pyramide/main.cpp313083804#39#0#39#0#0"0(0#0#39"/Users/molz/Documents/pyramide/main.cpp4300882208#1268"    cd /Users/molz/Documents/pyramide    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-generated-files.hmap -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-own-target-headers.hmap -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-all-target-headers.hmap -iquote /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/pyramide-project-headers.hmap -F/Users/molz/Documents/pyramide/build/Debug -I/Users/molz/Documents/pyramide/build/Debug/include -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/DerivedSources/x86_64 -I/Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/DerivedSources -c /Users/molz/Documents/pyramide/main.cpp -o /Users/molz/Documents/pyramide/build/pyramide.build/Debug/pyramide.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/pyramide/build/Debug/pyramide normal x86_64
+r0
+

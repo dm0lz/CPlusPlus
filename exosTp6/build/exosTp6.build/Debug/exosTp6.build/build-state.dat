@@ -1,0 +1,57 @@
+TexosTp6
+v7
+r0
+t316277174.849409
+cCheck dependencies
+cCompileC build/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exosTp6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/molz/Documents/exosTp6/build/Debug/exosTp6
+t2
+s0
+
+N/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/exosTp6.LinkFileList
+c000000004D29C7490000000000000063
+t1294583625
+s99
+
+N/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exosTp6/main.cpp
+c000000004D29CA360000000000000442
+t1294584374
+s1090
+i<iostream>
+i<math.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316277174#316277174#0(0"0(0#1#0"8614922944#0"0#
+
+CCompileC build/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exosTp6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316277174.601913
+e316277174.849354
+r0
+xCompileC
+xbuild/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exosTp6/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exosTp6/main.cpp316277174#316277174#0(3385"/Users/molz/Documents/exosTp6/main.cpp:31: error: 'pointGeo' has not been declared/Users/molz/Documents/exosTp6/main.cpp: In function 'bool pythagore(PointGeo, PointGeo, int)':/Users/molz/Documents/exosTp6/main.cpp:35: error: conversion from 'int' to non-scalar type 'PointGeo' requested/Users/molz/Documents/exosTp6/main.cpp:36: error: conversion from 'int' to non-scalar type 'PointGeo' requested/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: '(bc * bc)' cannot be used as a function/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\342' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\216' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: stray '\256' in program/Users/molz/Documents/exosTp6/main.cpp:38: error: '(ac * ac)' cannot be used as a function/Users/molz/Documents/exosTp6/main.cpp: In function 'std::string pythagoreString()':/Users/molz/Documents/exosTp6/main.cpp:49: error: cannot convert 'PointGeo' to 'int' for argument '3' to 'bool pythagore(PointGeo, PointGeo, int)'/Users/molz/Documents/exosTp6/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exosTp6/main.cpp:58: error: expected primary-expression before '{' token/Users/molz/Documents/exosTp6/main.cpp:58: error: expected `;' before '{' token/Users/molz/Documents/exosTp6/main.cpp:59: error: expected primary-expression before '{' token/Users/molz/Documents/exosTp6/main.cpp:59: error: expected `;' before '{' token/Users/molz/Documents/exosTp6/main.cpp:60: error: expected primary-expression before '{' token/Users/molz/Documents/exosTp6/main.cpp:60: error: expected `;' before '{' token/Users/molz/Documents/exosTp6/main.cpp:45: error: too many arguments to function 'std::string pythagoreString()'/Users/molz/Documents/exosTp6/main.cpp:62: error: at this point in file38(4@32"'pointGeo' has not been declared316277174#0#83#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#31#0#31#0#25"'*' has not been declared0(4@61"Conversion from 'int' to non-scalar type 'PointGeo' requested316277174#178#112#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#35#0#35#0#0"0(4@61"Conversion from 'int' to non-scalar type 'PointGeo' requested316277174#290#112#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#36#0#36#0#0"0(4@23"Stray '\342' in program316277174#402#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#476#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#550#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#624#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#698#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#772#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#846#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#920#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#994#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#1068#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#1142#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#1216#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@40"'(bc * bc)' cannot be used as a function316277174#1290#91#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#0"0(4@23"Stray '\342' in program316277174#1381#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#1455#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#1529#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#1603#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#1677#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#1751#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#1825#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#1899#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#1973#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\342' in program316277174#2047#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\216' in program316277174#2121#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@23"Stray '\256' in program316277174#2195#74#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#20"stray '*' in program0(4@40"'(ac * ac)' cannot be used as a function316277174#2269#91#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#38#0#38#0#0"0(4@96"Cannot convert 'PointGeo' to 'int' for argument '3' to 'bool pythagore(PointGeo, PointGeo, int)'316277174#2445#147#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#49#0#49#0#0"0(4@44"Expected primary-expression before '{' token316277174#2675#95#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#58#0#58#0#19"expected * before *0(4@29"Expected `;' before '{' token316277174#2770#80#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#58#0#58#0#19"expected * before *0(4@44"Expected primary-expression before '{' token316277174#2850#95#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#59#0#59#0#19"expected * before *0(4@29"Expected `;' before '{' token316277174#2945#80#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#59#0#59#0#19"expected * before *0(4@44"Expected primary-expression before '{' token316277174#3025#95#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#60#0#60#0#19"expected * before *0(4@29"Expected `;' before '{' token316277174#3120#80#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#60#0#60#0#19"expected * before *0(4@62"Too many arguments to function 'std::string pythagoreString()'316277174#3200#113#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#45#0#45#0#0"0(4@21"At this point in file316277174#3313#72#0(6@38"/Users/molz/Documents/exosTp6/main.cpp316277174#62#0#62#0#0"0(0#0#38"/Users/molz/Documents/exosTp6/main.cpp8613313984#1192"    cd /Users/molz/Documents/exosTp6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/exosTp6-generated-files.hmap -I/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/exosTp6-own-target-headers.hmap -I/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/exosTp6-all-target-headers.hmap -iquote /Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/exosTp6-project-headers.hmap -F/Users/molz/Documents/exosTp6/build/Debug -I/Users/molz/Documents/exosTp6/build/Debug/include -I/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/DerivedSources/x86_64 -I/Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/DerivedSources -c /Users/molz/Documents/exosTp6/main.cpp -o /Users/molz/Documents/exosTp6/build/exosTp6.build/Debug/exosTp6.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exosTp6/build/Debug/exosTp6 normal x86_64
+r0
+

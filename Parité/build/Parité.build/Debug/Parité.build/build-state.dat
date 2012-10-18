@@ -1,0 +1,95 @@
+TParité
+v7
+r0
+t328755845.103776
+cCheck dependencies
+cCompileC build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/Parité/build/Debug/Parité normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/Parité/build/Debug/Parité
+t1307062036
+s11008
+
+N/Users/molz/Documents/Parité/build/Debug/Parité
+t1307063031
+s11008
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/Parité.LinkFileList
+c000000004DE8291F0000000000000065
+t1307060511
+s101
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/Parité.LinkFileList
+c000000004DE8291F0000000000000065
+t1307060511
+s101
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+t1307062036
+s70392
+
+N/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+t1307063031
+s70424
+
+N/Users/molz/Documents/Parité/main.cpp
+c000000004DE832F6000000000000026B
+t1307063030
+s619
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328755845#328755845#0(0"0(0#1#0"8611017376#0"0#
+
+CCompileC build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328754836.136175
+e328754836.420233
+r1
+xCompileC
+xbuild/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/Parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/Parité/main.cpp328754836#328754836#0(0"0(0#0#39"/Users/molz/Documents/Parité/main.cpp8614297088#1221"    cd /Users/molz/Documents/Parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-generated-files.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-own-target-headers.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-all-target-headers.hmap -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-project-headers.hmap -F/Users/molz/Documents/Parité/build/Debug -I/Users/molz/Documents/Parité/build/Debug/include -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources -c /Users/molz/Documents/Parité/main.cpp -o /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o /Users/molz/Documents/Parité/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328755831.106695
+e328755831.354388
+r1
+xCompileC
+xbuild/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/Parité/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/molz/Documents/Parité/main.cpp328755831#328755831#0(0"0(0#0#39"/Users/molz/Documents/Parité/main.cpp8616399232#1221"    cd /Users/molz/Documents/Parité    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-generated-files.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-own-target-headers.hmap -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-all-target-headers.hmap -iquote /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Parité-project-headers.hmap -F/Users/molz/Documents/Parité/build/Debug -I/Users/molz/Documents/Parité/build/Debug/include -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources/x86_64 -I/Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/DerivedSources -c /Users/molz/Documents/Parité/main.cpp -o /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/Parité/build/Debug/Parité normal x86_64
+s328754836.420302
+e328754836.439531
+r1
+xLd
+x/Users/molz/Documents/Parité/build/Debug/Parité
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/Parité/build/Debug/Parité328754836#328754836#0(0"0(0#0#0"8614443776#462"    cd /Users/molz/Documents/Parité    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/Parité/build/Debug -F/Users/molz/Documents/Parité/build/Debug -filelist /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/Parité.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/Parité/build/Debug/Parité0#
+
+CLd /Users/molz/Documents/Parité/build/Debug/Parité normal x86_64
+s328755831.354457
+e328755831.373627
+r1
+xLd
+x/Users/molz/Documents/Parité/build/Debug/Parité
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/molz/Documents/Parité/build/Debug/Parité328755831#328755831#0(0"0(0#0#0"8616369344#462"    cd /Users/molz/Documents/Parité    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/Parité/build/Debug -F/Users/molz/Documents/Parité/build/Debug -filelist /Users/molz/Documents/Parité/build/Parité.build/Debug/Parité.build/Objects-normal/x86_64/Parité.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/Parité/build/Debug/Parité0#
+

@@ -1,0 +1,53 @@
+Tcalculator
+v7
+r0
+t320450350.276005
+cCheck dependencies
+cCompileC build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calculator/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/calculator/build/Debug/calculator
+t2
+s0
+
+N/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/calculator.LinkFileList
+c000000004D6977AD000000000000006C
+t1298757549
+s108
+
+N/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/calculator/main.cpp
+c000000004D6977AD00000000000002FA
+t1298757549
+s762
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320450349#320450349#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calculator/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320450349.468717
+e320450350.275912
+r0
+xCompileC
+xbuild/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/calculator/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/molz/Documents/calculator/main.cpp: In function 'int main(int, char* const*)':
+o/Users/molz/Documents/calculator/main.cpp:29: error: 'resultat' was not declared in this scope
+lSLF07#2@49"Compile /Users/molz/Documents/calculator/main.cpp320450349#320450350#0(181"/Users/molz/Documents/calculator/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/calculator/main.cpp:29: error: 'resultat' was not declared in this scope1(4@41"'resultat' was not declared in this scope320450350#86#95#0(6@41"/Users/molz/Documents/calculator/main.cpp320450349#29#0#29#0#34"'*' was not declared in this scope0(0#0#41"/Users/molz/Documents/calculator/main.cpp8660259774160596992#1279"    cd /Users/molz/Documents/calculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-generated-files.hmap -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-own-target-headers.hmap -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-all-target-headers.hmap -iquote /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/calculator-project-headers.hmap -F/Users/molz/Documents/calculator/build/Debug -I/Users/molz/Documents/calculator/build/Debug/include -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/DerivedSources/x86_64 -I/Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/DerivedSources -c /Users/molz/Documents/calculator/main.cpp -o /Users/molz/Documents/calculator/build/calculator.build/Debug/calculator.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/calculator/build/Debug/calculator normal x86_64
+r0
+

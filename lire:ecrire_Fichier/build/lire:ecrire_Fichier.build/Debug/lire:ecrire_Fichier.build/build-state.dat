@@ -1,0 +1,60 @@
+Tlire:ecrire_Fichier
+v7
+r0
+t330009928.149075
+cCheck dependencies
+cCompileC build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/main.o /Users/molz/Documents/lire:ecrire_Fichier/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier
+t1308317128
+s16768
+
+N/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/lire:ecrire_Fichier.LinkFileList
+c000000004DFB45B00000000000000087
+t1308313008
+s135
+
+N/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/main.o
+t1308317128
+s82252
+
+N/Users/molz/Documents/lire:ecrire_Fichier/main.cpp
+c000000004DFB55C70000000000000299
+t1308317127
+s665
+i<iostream>
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330009927#330009927#0(0"0(0#1#0"8613052000#0"0#
+
+CCompileC build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/main.o /Users/molz/Documents/lire:ecrire_Fichier/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s330009927.847717
+e330009928.128712
+r1
+xCompileC
+xbuild/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/lire:ecrire_Fichier/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/molz/Documents/lire:ecrire_Fichier/main.cpp330009927#330009928#0(0"0(0#0#50"/Users/molz/Documents/lire:ecrire_Fichier/main.cpp8613441696#1542"    cd "/Users/molz/Documents/lire:ecrire_Fichier"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/lire:ecrire_Fichier-generated-files.hmap -I/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/lire:ecrire_Fichier-own-target-headers.hmap -I/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/lire:ecrire_Fichier-all-target-headers.hmap -iquote /Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/lire:ecrire_Fichier-project-headers.hmap -F/Users/molz/Documents/lire:ecrire_Fichier/build/Debug -I/Users/molz/Documents/lire:ecrire_Fichier/build/Debug/include -I/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/DerivedSources/x86_64 -I/Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/DerivedSources -c /Users/molz/Documents/lire:ecrire_Fichier/main.cpp -o /Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier normal x86_64
+s330009928.128785
+e330009928.149028
+r1
+xLd
+x/Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier
+xnormal
+xx86_64
+lSLF07#2@78"Link /Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier330009928#330009928#0(0"0(0#0#0"8613103296#563"    cd "/Users/molz/Documents/lire:ecrire_Fichier"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/lire:ecrire_Fichier/build/Debug -F/Users/molz/Documents/lire:ecrire_Fichier/build/Debug -filelist /Users/molz/Documents/lire:ecrire_Fichier/build/lire:ecrire_Fichier.build/Debug/lire:ecrire_Fichier.build/Objects-normal/x86_64/lire:ecrire_Fichier.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/lire:ecrire_Fichier/build/Debug/lire:ecrire_Fichier0#
+

@@ -1,0 +1,59 @@
+Texo3tp4part2
+v7
+r0
+t312811030.259667
+cCheck dependencies
+cCompileC build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo3tp4part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part2
+t1291117993
+s41184
+
+N/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/exo3tp4part2.LinkFileList
+c000000004CF4D4F10000000000000072
+t1291113713
+s114
+
+N/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/main.o
+t1291117993
+s133768
+
+N/Users/molz/Documents/exo3tp4part2/main.cpp
+c000000004CF4E58E0000000000000221
+t1291117966
+s545
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312811030#312811030#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo3tp4part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312810792.968922
+e312810793.485981
+r1
+xCompileC
+xbuild/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo3tp4part2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/molz/Documents/exo3tp4part2/main.cpp312810792#312810793#0(0"0(0#0#43"/Users/molz/Documents/exo3tp4part2/main.cpp7307761437599099904#1384"    cd /Users/molz/Documents/exo3tp4part2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/exo3tp4part2-generated-files.hmap -I/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/exo3tp4part2-own-target-headers.hmap -I/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/exo3tp4part2-all-target-headers.hmap -iquote /Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/exo3tp4part2-project-headers.hmap -F/Users/molz/Documents/exo3tp4part2/build/Debug -I/Users/molz/Documents/exo3tp4part2/build/Debug/include -I/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/DerivedSources -c /Users/molz/Documents/exo3tp4part2/main.cpp -o /Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part2 normal x86_64
+s312810793.486089
+e312810793.508293
+r1
+xLd
+x/Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part2
+xnormal
+xx86_64
+lSLF07#2@64"Link /Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part2312810793#312810793#0(0"0(0#0#0"32370120545140836#498"    cd /Users/molz/Documents/exo3tp4part2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exo3tp4part2/build/Debug -F/Users/molz/Documents/exo3tp4part2/build/Debug -filelist /Users/molz/Documents/exo3tp4part2/build/exo3tp4part2.build/Debug/exo3tp4part2.build/Objects-normal/x86_64/exo3tp4part2.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exo3tp4part2/build/Debug/exo3tp4part20#
+

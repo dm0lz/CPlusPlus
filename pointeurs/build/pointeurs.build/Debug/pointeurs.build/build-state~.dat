@@ -1,0 +1,51 @@
+Tpointeurs
+v7
+r0
+t330011018.279420
+cCheck dependencies
+cCompileC build/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pointeurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/pointeurs/build/Debug/pointeurs
+t2
+s0
+
+N/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/pointeurs.LinkFileList
+c000000004DFB5A0A0000000000000069
+t1308318218
+s105
+
+N/Users/molz/Documents/pointeurs/main.cpp
+c000000004DFB5A090000000000000060
+t1308318217
+s96
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330011018#330011018#0(0"0(0#1#0"8613249920#0"0#
+
+CCompileC build/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/pointeurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s330011018.068407
+e330011018.279363
+r0
+xCompileC
+xbuild/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/pointeurs/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/molz/Documents/pointeurs/main.cpp330011018#330011018#0(174"/Users/molz/Documents/pointeurs/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/pointeurs/main.cpp:6: error: 'cout' was not declared in this scope1(4@37"'cout' was not declared in this scope330011018#85#89#0(6@40"/Users/molz/Documents/pointeurs/main.cpp330011017#6#0#6#0#34"'*' was not declared in this scope0(0#0#40"/Users/molz/Documents/pointeurs/main.cpp8611854208#1250"    cd /Users/molz/Documents/pointeurs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/pointeurs-generated-files.hmap -I/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/pointeurs-own-target-headers.hmap -I/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/pointeurs-all-target-headers.hmap -iquote /Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/pointeurs-project-headers.hmap -F/Users/molz/Documents/pointeurs/build/Debug -I/Users/molz/Documents/pointeurs/build/Debug/include -I/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/DerivedSources/x86_64 -I/Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/DerivedSources -c /Users/molz/Documents/pointeurs/main.cpp -o /Users/molz/Documents/pointeurs/build/pointeurs.build/Debug/pointeurs.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/pointeurs/build/Debug/pointeurs normal x86_64
+r0
+

@@ -1,0 +1,51 @@
+Texotest
+v7
+r0
+t311783706.750723
+cCheck dependencies
+cCompileC build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exotest/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exotest/build/Debug/exotest
+t2
+s0
+
+N/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/exotest.LinkFileList
+c000000004CE5399A0000000000000063
+t1290090906
+s99
+
+N/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/exotest/main.cpp
+c000000004CE5399A00000000000002BD
+t1290090906
+s701
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311783706#311783706#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exotest/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311783706.547282
+e311783706.750661
+r0
+xCompileC
+xbuild/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exotest/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exotest/main.cpp311783706#311783706#0(1012"/Users/molz/Documents/exotest/main.cpp:2: error: expected constructor, destructor, or type conversion before 'namespace'/Users/molz/Documents/exotest/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/exotest/main.cpp:11: error: 'cout' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:11: error: 'endl' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:12: error: 'cin' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:17: error: 'saisie' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:20: error: name lookup of 'i' changed for new ISO 'for' scoping/Users/molz/Documents/exotest/main.cpp:14: error:   using obsolete binding at 'i'/Users/molz/Documents/exotest/main.cpp:22: error: 'saisie' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:25: error: 'saisie' was not declared in this scope/Users/molz/Documents/exotest/main.cpp:34: error: 'saisie' was not declared in this scope10(4@71"Expected constructor, destructor, or type conversion before 'namespace'311783706#0#121#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#2#0#2#0#19"expected * before *0(4@37"'cout' was not declared in this scope311783706#204#88#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#11#0#11#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope311783706#292#88#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#11#0#11#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope311783706#380#87#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#12#0#12#0#34"'*' was not declared in this scope0(4@39"'saisie' was not declared in this scope311783706#467#90#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#17#0#17#0#34"'*' was not declared in this scope0(4@52"Name lookup of 'i' changed for new ISO 'for' scoping311783706#557#103#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#20#0#20#0#0"0(4@29"Using obsolete binding at 'i'311783706#660#82#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#14#0#14#0#0"0(4@39"'saisie' was not declared in this scope311783706#742#90#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#22#0#22#0#34"'*' was not declared in this scope0(4@39"'saisie' was not declared in this scope311783706#832#90#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#25#0#25#0#34"'*' was not declared in this scope0(4@39"'saisie' was not declared in this scope311783706#922#90#0(6@38"/Users/molz/Documents/exotest/main.cpp311783706#34#0#34#0#34"'*' was not declared in this scope0(0#0#38"/Users/molz/Documents/exotest/main.cpp7809643567100341248#1239"    cd /Users/molz/Documents/exotest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-generated-files.hmap -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-own-target-headers.hmap -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-all-target-headers.hmap -iquote /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/exotest-project-headers.hmap -F/Users/molz/Documents/exotest/build/Debug -I/Users/molz/Documents/exotest/build/Debug/include -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/DerivedSources/x86_64 -I/Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/DerivedSources -c /Users/molz/Documents/exotest/main.cpp -o /Users/molz/Documents/exotest/build/exotest.build/Debug/exotest.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/exotest/build/Debug/exotest normal x86_64
+r0
+

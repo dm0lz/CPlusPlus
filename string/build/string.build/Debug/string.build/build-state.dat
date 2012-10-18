@@ -1,0 +1,59 @@
+Tstring
+v7
+r0
+t330794693.278327
+cCheck dependencies
+cCompileC build/string.build/Debug/string.build/Objects-normal/x86_64/main.o /Users/molz/Documents/string/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/string/build/Debug/string normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/string/build/Debug/string
+t1308320139
+s16312
+
+N/Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/main.o
+t1308320138
+s72504
+
+N/Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/string.LinkFileList
+c000000004DFA7E3E0000000000000060
+t1308261950
+s96
+
+N/Users/molz/Documents/string/main.cpp
+c000000004DFB618900000000000001C8
+t1308320137
+s456
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330794693#330794693#0(0"0(0#1#0"8603053856#0"0#
+
+CCompileC build/string.build/Debug/string.build/Objects-normal/x86_64/main.o /Users/molz/Documents/string/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s330012939.135361
+e330012939.136327
+r1
+xCompileC
+xbuild/string.build/Debug/string.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/string/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/molz/Documents/string/main.cpp330012939#330012939#0(0"0(0#0#37"/Users/molz/Documents/string/main.cpp8613548608#1163"    cd /Users/molz/Documents/string    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/string/build/string.build/Debug/string.build/string-generated-files.hmap -I/Users/molz/Documents/string/build/string.build/Debug/string.build/string-own-target-headers.hmap -I/Users/molz/Documents/string/build/string.build/Debug/string.build/string-all-target-headers.hmap -iquote /Users/molz/Documents/string/build/string.build/Debug/string.build/string-project-headers.hmap -F/Users/molz/Documents/string/build/Debug -I/Users/molz/Documents/string/build/Debug/include -I/Users/molz/Documents/string/build/string.build/Debug/string.build/DerivedSources/x86_64 -I/Users/molz/Documents/string/build/string.build/Debug/string.build/DerivedSources -c /Users/molz/Documents/string/main.cpp -o /Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/string/build/Debug/string normal x86_64
+s330012939.136383
+e330012939.156129
+r1
+xLd
+x/Users/molz/Documents/string/build/Debug/string
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/molz/Documents/string/build/Debug/string330012939#330012939#0(0"0(0#0#0"8613255456#444"    cd /Users/molz/Documents/string    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/string/build/Debug -F/Users/molz/Documents/string/build/Debug -filelist /Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/string.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/string/build/Debug/string0#
+

@@ -1,0 +1,51 @@
+Tstring
+v7
+r0
+t329954750.644709
+cCheck dependencies
+cCompileC build/string.build/Debug/string.build/Objects-normal/x86_64/main.o /Users/molz/Documents/string/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/string/build/Debug/string
+t2
+s0
+
+N/Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/string.LinkFileList
+c000000004DFA7E3E0000000000000060
+t1308261950
+s96
+
+N/Users/molz/Documents/string/main.cpp
+c000000004DFA7E3E00000000000000AD
+t1308261950
+s173
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329954750#329954750#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/string.build/Debug/string.build/Objects-normal/x86_64/main.o /Users/molz/Documents/string/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s329954750.506217
+e329954750.644126
+r0
+xCompileC
+xbuild/string.build/Debug/string.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/string/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/molz/Documents/string/main.cpp329954750#329954750#0(586"/Users/molz/Documents/string/main.cpp: In function 'int main(int, char* const*)':/Users/molz/Documents/string/main.cpp:4: error: 'string' was not declared in this scope/Users/molz/Documents/string/main.cpp:4: error: expected `;' before 'mot'/Users/molz/Documents/string/main.cpp:5: error: 'cout' was not declared in this scope/Users/molz/Documents/string/main.cpp:5: error: 'endl' was not declared in this scope/Users/molz/Documents/string/main.cpp:6: error: 'cin' was not declared in this scope/Users/molz/Documents/string/main.cpp:6: error: 'mot' was not declared in this scope6(4@39"'string' was not declared in this scope329954750#82#88#0(6@37"/Users/molz/Documents/string/main.cpp329954750#4#0#4#0#34"'*' was not declared in this scope0(4@25"Expected `;' before 'mot'329954750#170#74#0(6@37"/Users/molz/Documents/string/main.cpp329954750#4#0#4#0#19"expected * before *0(4@37"'cout' was not declared in this scope329954750#244#86#0(6@37"/Users/molz/Documents/string/main.cpp329954750#5#0#5#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope329954750#330#86#0(6@37"/Users/molz/Documents/string/main.cpp329954750#5#0#5#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope329954750#416#85#0(6@37"/Users/molz/Documents/string/main.cpp329954750#6#0#6#0#34"'*' was not declared in this scope0(4@36"'mot' was not declared in this scope329954750#501#85#0(6@37"/Users/molz/Documents/string/main.cpp329954750#6#0#6#0#34"'*' was not declared in this scope0(0#0#37"/Users/molz/Documents/string/main.cpp7020319295437486080#1163"    cd /Users/molz/Documents/string    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/string/build/string.build/Debug/string.build/string-generated-files.hmap -I/Users/molz/Documents/string/build/string.build/Debug/string.build/string-own-target-headers.hmap -I/Users/molz/Documents/string/build/string.build/Debug/string.build/string-all-target-headers.hmap -iquote /Users/molz/Documents/string/build/string.build/Debug/string.build/string-project-headers.hmap -F/Users/molz/Documents/string/build/Debug -I/Users/molz/Documents/string/build/Debug/include -I/Users/molz/Documents/string/build/string.build/Debug/string.build/DerivedSources/x86_64 -I/Users/molz/Documents/string/build/string.build/Debug/string.build/DerivedSources -c /Users/molz/Documents/string/main.cpp -o /Users/molz/Documents/string/build/string.build/Debug/string.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/molz/Documents/string/build/Debug/string normal x86_64
+r0
+

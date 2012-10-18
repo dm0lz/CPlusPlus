@@ -1,0 +1,90 @@
+Texo2joueurs
+v7
+r0
+t309726092.683179
+cCheck dependencies
+cCompileC build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2joueurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o /Users/molz/Documents/exo2joueurs/2jouerus.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo2joueurs/2jouerus.cpp
+c000000004CC5D3F600000000000000A2
+t1288033270
+s162
+i"2jouerus.h"
+
+N/Users/molz/Documents/exo2joueurs/2jouerus.h
+c000000004CC5D40C00000000000004CC
+t1288033292
+s1228
+
+N/Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs
+t2
+s0
+
+N/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o
+t1288033292
+s147668
+
+N/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/exo2joueurs.LinkFileList
+c000000004CC5D40C00000000000000E2
+t1288033292
+s226
+
+N/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o
+t1288033292
+s89756
+
+N/Users/molz/Documents/exo2joueurs/main.cpp
+c000000004CC5D3E2000000000000008F
+t1288033250
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309726092#309726092#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o /Users/molz/Documents/exo2joueurs/2jouerus.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309726092.106653
+e309726092.663186
+r1
+xCompileC
+xbuild/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o
+x/Users/molz/Documents/exo2joueurs/2jouerus.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/molz/Documents/exo2joueurs/2jouerus.cpp309726092#309726092#0(0"0(0#0#46"/Users/molz/Documents/exo2joueurs/2jouerus.cpp4300882208#1363"    cd /Users/molz/Documents/exo2joueurs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-generated-files.hmap -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-own-target-headers.hmap -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-all-target-headers.hmap -iquote /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-project-headers.hmap -F/Users/molz/Documents/exo2joueurs/build/Debug -I/Users/molz/Documents/exo2joueurs/build/Debug/include -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/DerivedSources -c /Users/molz/Documents/exo2joueurs/2jouerus.cpp -o /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o0#
+
+CCompileC build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2joueurs/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309726092.105045
+e309726092.590198
+r1
+xCompileC
+xbuild/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo2joueurs/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/molz/Documents/exo2joueurs/main.cpp309726092#309726092#0(0"0(0#0#42"/Users/molz/Documents/exo2joueurs/main.cpp4300882208#1355"    cd /Users/molz/Documents/exo2joueurs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-generated-files.hmap -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-own-target-headers.hmap -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-all-target-headers.hmap -iquote /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/exo2joueurs-project-headers.hmap -F/Users/molz/Documents/exo2joueurs/build/Debug -I/Users/molz/Documents/exo2joueurs/build/Debug/include -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/DerivedSources -c /Users/molz/Documents/exo2joueurs/main.cpp -o /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs normal x86_64
+s309726092.663290
+e309726092.683137
+r0
+xLd
+x/Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs
+xnormal
+xx86_64
+old: duplicate symbol _main in /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o and /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@62"Link /Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs309726092#309726092#0(355"ld: duplicate symbol _main in /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o and /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/g++-4.2 failed with exit code 12(13@255"Duplicate symbol _main in /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/2jouerus.o and /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/main.o309726092#0#260#0(6@0"309726092#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/g++-4.2 failed with exit code 1309726092#18446744073709551615#0#0(1@0"0(0#0#0"4300882208#489"    cd /Users/molz/Documents/exo2joueurs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exo2joueurs/build/Debug -F/Users/molz/Documents/exo2joueurs/build/Debug -filelist /Users/molz/Documents/exo2joueurs/build/exo2joueurs.build/Debug/exo2joueurs.build/Objects-normal/x86_64/exo2joueurs.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exo2joueurs/build/Debug/exo2joueurs1#
+

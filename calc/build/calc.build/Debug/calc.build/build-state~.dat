@@ -1,0 +1,59 @@
+Tcalc
+v7
+r0
+t311036188.605557
+cCheck dependencies
+cCompileC build/calc.build/Debug/calc.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calc/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/calc/build/Debug/calc normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/calc/build/Debug/calc
+t1289343388
+s29768
+
+N/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/Objects-normal/x86_64/calc.LinkFileList
+c000000004CD9D19C000000000000005A
+t1289343388
+s90
+
+N/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/Objects-normal/x86_64/main.o
+t1289343388
+s93360
+
+N/Users/molz/Documents/calc/main.cpp
+c000000004CD9D19C000000000000016A
+t1289343388
+s362
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311036188#311036188#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/calc.build/Debug/calc.build/Objects-normal/x86_64/main.o /Users/molz/Documents/calc/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311036188.226872
+e311036188.539126
+r1
+xCompileC
+xbuild/calc.build/Debug/calc.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/calc/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/molz/Documents/calc/main.cpp311036188#311036188#0(0"0(0#0#35"/Users/molz/Documents/calc/main.cpp4300882208#1152"    cd /Users/molz/Documents/calc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/calc/build/calc.build/Debug/calc.build/calc-generated-files.hmap -I/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/calc-own-target-headers.hmap -I/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/calc-all-target-headers.hmap -iquote /Users/molz/Documents/calc/build/calc.build/Debug/calc.build/calc-project-headers.hmap -F/Users/molz/Documents/calc/build/Debug -I/Users/molz/Documents/calc/build/Debug/include -I/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/DerivedSources/x86_64 -I/Users/molz/Documents/calc/build/calc.build/Debug/calc.build/DerivedSources -c /Users/molz/Documents/calc/main.cpp -o /Users/molz/Documents/calc/build/calc.build/Debug/calc.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/calc/build/Debug/calc normal x86_64
+s311036188.539195
+e311036188.605511
+r1
+xLd
+x/Users/molz/Documents/calc/build/Debug/calc
+xnormal
+xx86_64
+lSLF07#2@48"Link /Users/molz/Documents/calc/build/Debug/calc311036188#311036188#0(0"0(0#0#0"4300882208#426"    cd /Users/molz/Documents/calc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/calc/build/Debug -F/Users/molz/Documents/calc/build/Debug -filelist /Users/molz/Documents/calc/build/calc.build/Debug/calc.build/Objects-normal/x86_64/calc.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/calc/build/Debug/calc0#
+

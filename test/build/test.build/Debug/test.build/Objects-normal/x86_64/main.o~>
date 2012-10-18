@@ -1,0 +1,8 @@
+/Users/molz/Documents/test/main.cpp: In function 'int main(int, char* const*)':
+/Users/molz/Documents/test/main.cpp:36: error: expected `}' before ';' token
+/Users/molz/Documents/test/main.cpp:36: error: expected `;' before '}' token
+/Users/molz/Documents/test/main.cpp:36: warning: unused variable 'p1'
+/Users/molz/Documents/test/main.cpp: At global scope:
+/Users/molz/Documents/test/main.cpp:38: error: expected constructor, destructor, or type conversion before '=' token
+/Users/molz/Documents/test/main.cpp:40: error: expected constructor, destructor, or type conversion before '(' token
+/Users/molz/Documents/test/main.cpp:41: error: expected declaration before '}' token

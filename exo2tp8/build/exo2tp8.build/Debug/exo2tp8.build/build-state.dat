@@ -1,0 +1,59 @@
+Texo2tp8
+v7
+r0
+t319413935.958838
+cCheck dependencies
+cCompileC build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/molz/Documents/exo2tp8/build/Debug/exo2tp8 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/molz/Documents/exo2tp8/build/Debug/exo2tp8
+t1297721099
+s11832
+
+N/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/exo2tp8.LinkFileList
+c000000004D5951460000000000000063
+t1297699142
+s99
+
+N/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/main.o
+t1297721099
+s72896
+
+N/Users/molz/Documents/exo2tp8/main.cpp
+c000000004D59A8050000000000000380
+t1297721349
+s896
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319413935#319413935#0(0"0(0#1#0"8602448032#0"0#
+
+CCompileC build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/main.o /Users/molz/Documents/exo2tp8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319413899.423593
+e319413899.647340
+r1
+xCompileC
+xbuild/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/main.o
+x/Users/molz/Documents/exo2tp8/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/molz/Documents/exo2tp8/main.cpp319413899#319413899#0(0"0(0#0#38"/Users/molz/Documents/exo2tp8/main.cpp3401403401131030528#1192"    cd /Users/molz/Documents/exo2tp8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/exo2tp8-generated-files.hmap -I/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/exo2tp8-own-target-headers.hmap -I/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/exo2tp8-all-target-headers.hmap -iquote /Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/exo2tp8-project-headers.hmap -F/Users/molz/Documents/exo2tp8/build/Debug -I/Users/molz/Documents/exo2tp8/build/Debug/include -I/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/DerivedSources/x86_64 -I/Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/DerivedSources -c /Users/molz/Documents/exo2tp8/main.cpp -o /Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/molz/Documents/exo2tp8/build/Debug/exo2tp8 normal x86_64
+s319413899.647421
+e319413899.667145
+r1
+xLd
+x/Users/molz/Documents/exo2tp8/build/Debug/exo2tp8
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/molz/Documents/exo2tp8/build/Debug/exo2tp8319413899#319413899#0(0"0(0#0#0"31244237817577520#453"    cd /Users/molz/Documents/exo2tp8    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/molz/Documents/exo2tp8/build/Debug -F/Users/molz/Documents/exo2tp8/build/Debug -filelist /Users/molz/Documents/exo2tp8/build/exo2tp8.build/Debug/exo2tp8.build/Objects-normal/x86_64/exo2tp8.LinkFileList -mmacosx-version-min=10.6 -o /Users/molz/Documents/exo2tp8/build/Debug/exo2tp80#
+
